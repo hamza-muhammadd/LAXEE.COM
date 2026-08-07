@@ -4,7 +4,7 @@
 
 **Product Name:** Egyptian Premium Chocolate — 100g
 
-**Research Status:** Cost Analysis / Initial Validation
+**Research Status:** Initial Validation
 
 **Recommendation:** TEST
 
@@ -13,10 +13,10 @@
 **Last Updated:** August 2026
 
 > IMPORTANT:
-> All financial figures in this demo are estimated assumptions.
-> They must be replaced with verified supplier quotations,
-> shipping costs, duties, and local market prices before making
-> a purchasing decision.
+> All financial figures in this document are preliminary estimates
+> for demonstration purposes. Actual supplier quotations, shipping,
+> customs/duties, taxes, and other applicable costs must be verified
+> before making a purchasing decision.
 
 ---
 
@@ -48,7 +48,7 @@ Egypt
 
 ## Source
 
-Egyptian wholesale supplier.
+Potential Egyptian manufacturer / distributor / wholesale supplier.
 
 **Supplier:** To be verified.
 
@@ -58,22 +58,28 @@ Egyptian wholesale supplier.
 
 ## What is the product?
 
-A 100g premium Egyptian chocolate box intended for inclusion in
-LAXEE curated gift boxes.
+A 100g premium Egyptian chocolate product intended for inclusion
+in LAXEE curated gift collections.
 
-The product may also be sold as a standalone premium chocolate gift.
+The product may be offered as:
+
+- A standalone premium chocolate
+- A component inside a curated gift box
+- A Nikah gift-box component
+- A seasonal Eid / Ramadan product
+- A corporate gifting component
 
 ## Why could LAXEE sell it?
 
-Chocolate is highly compatible with gifting and can increase the
-perceived value of a curated gift box.
+Chocolate has strong gifting relevance and can increase the perceived
+value of a curated gift box.
 
-The product could be positioned as:
-
-> An imported chocolate selection thoughtfully included in a
-> LAXEE gifting experience.
+Egyptian origin may also create differentiation if the selected
+product is not already widely available in Bangladesh.
 
 ## Who would buy it?
+
+Potential customers:
 
 - Premium gift buyers
 - Nikah gift buyers
@@ -84,8 +90,14 @@ The product could be positioned as:
 
 ## Why would someone gift it?
 
-Chocolate is familiar, shareable, visually attractive, and suitable
-for celebrations.
+Chocolate is:
+
+- Familiar
+- Shareable
+- Celebration-oriented
+- Visually attractive
+- Easy to include in gift boxes
+- Suitable for multiple price points
 
 ---
 
@@ -93,10 +105,9 @@ for celebrations.
 
 ## Local Availability
 
-Assumption for this demo:
+Similar imported premium chocolates are available in Bangladesh.
 
-Similar imported chocolates are available in Bangladesh, but the
-specific selected Egyptian product has limited availability.
+The exact Egyptian product is assumed to have limited availability.
 
 **Status:** MUST VERIFY
 
@@ -104,15 +115,13 @@ specific selected Egyptian product has limited availability.
 
 Estimated:
 
-5–10 sellers for comparable imported premium chocolates.
+**5–10 sellers** for comparable imported premium chocolates.
 
 **Status:** MUST VERIFY
 
 ## Retail Price
 
-Comparable 100g imported premium chocolate:
-
-Estimated range:
+Estimated comparable market range for a 100g imported premium chocolate:
 
 **৳700–৳1,200**
 
@@ -122,17 +131,17 @@ Estimated range:
 
 Expected:
 
-Premium.
+**Premium**
 
-Actual quality must be tested through a physical sample.
+Actual quality must be verified through physical sample testing.
 
 ## Packaging Quality
 
 Expected:
 
-Premium retail box.
+**Premium retail packaging**
 
-Final assessment requires a physical sample.
+Physical sample required.
 
 ## Customer Reviews
 
@@ -140,9 +149,7 @@ To be researched.
 
 ## Brand Recognition
 
-Specific brand recognition in Bangladesh:
-
-**Unknown**
+To be researched.
 
 ## Import Availability
 
@@ -160,9 +167,14 @@ Potentially available through:
 
 ## Direct Competitors
 
-Comparable imported premium chocolate products.
+Potential competitors:
 
-### Competitor A
+- Imported chocolate brands
+- Premium chocolate boutiques
+- Online chocolate sellers
+- Gift box companies
+
+## Comparable Competitor A
 
 **Product:** Imported Premium Chocolate — 100g
 
@@ -174,9 +186,7 @@ Comparable imported premium chocolate products.
 
 **Status:** Estimated
 
----
-
-### Competitor B
+## Comparable Competitor B
 
 **Product:** Imported Premium Chocolate — 100g
 
@@ -188,8 +198,6 @@ Comparable imported premium chocolate products.
 
 **Status:** Estimated
 
----
-
 ## Competitor Strengths
 
 - Existing customer trust
@@ -199,7 +207,7 @@ Comparable imported premium chocolate products.
 
 ## Competitor Weaknesses
 
-Potential opportunities for LAXEE:
+Potential LAXEE opportunities:
 
 - Limited personalization
 - Generic retail presentation
@@ -214,7 +222,7 @@ Potential opportunities for LAXEE:
 
 Egyptian Wholesale Chocolate Supplier
 
-**Status:** Hypothetical
+**Status:** Hypothetical / To be verified
 
 ## Country
 
@@ -224,13 +232,13 @@ Egypt
 
 Estimated:
 
-100 units
+**100 units**
 
 ## Unit Price
 
 Estimated:
 
-**$3.00 / 100g box**
+**$3.00 per 100g box**
 
 ## Customization
 
@@ -242,27 +250,23 @@ Unknown.
 
 ## Packaging
 
-Supplier's standard retail packaging.
+Supplier standard retail packaging.
 
 ## Lead Time
 
 Estimated:
 
-2–4 weeks
+**2–4 weeks**
 
 ## Shipping
 
-Estimated international shipping allocation:
+Estimated allocation:
 
-**$1.00 / unit**
+**$1.00 per unit**
 
 ## Payment Terms
 
-Estimated:
-
-50% advance / 50% before shipment.
-
-**Status:** Hypothetical.
+To be verified.
 
 ---
 
@@ -270,22 +274,23 @@ Estimated:
 
 ## Assumed Exchange Rate
 
-For this demo:
+For this initial calculation:
 
 **$1 = ৳120**
 
-> This is only a calculation assumption.
+> This is an assumption for calculation only.
+> The actual exchange rate at the time of purchase must be used.
 
 ---
 
-## Product Cost
+## 06.1 — Product Cost
 
 Supplier price:
 
-**$3.00**
+**$3.00 × 100 units = $300**
 
-Calculation:
+At ৳120/USD:
 
 ```text
-$3.00 × ৳120
-= ৳360
+$300 × ৳120
+= ৳36,000
