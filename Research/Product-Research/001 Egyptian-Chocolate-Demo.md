@@ -1,18 +1,12 @@
-# LAXEE — Egyptian Chocolate
-## Product Research Record
+# LAXEE — Product Research
 
-> Demo research record for evaluating Egyptian chocolate as a potential
-> LAXEE gifting product.
+**Product ID:** LAXEE-PR-001
 
----
+**Product Name:** Egyptian Premium Chocolate
 
-# Research Status
+**Research Status:** Discovery / Initial Research
 
-**Stage:** Discovery / Initial Research
-
-**Status:** Research More
-
-**Research Owner:** LAXEE
+**Recommendation:** Research More
 
 **Research Date:** August 2026
 
@@ -28,27 +22,28 @@ Egyptian Premium Chocolate
 
 ## Product Category
 
-Chocolate
+- Chocolate
+- Premium Gifting
 
-## Potential Occasions
+## Occasion
 
 - Nikah
 - Birthday
 - Anniversary
 - Eid
 - Ramadan
+- Corporate
 - General Gifting
-- Corporate Gifting
 
 ## Country of Origin
 
 Egypt
 
-## Potential Source
+## Source
 
-Egyptian manufacturer / distributor / wholesale supplier
+Potential Egyptian manufacturer, distributor, or wholesale exporter.
 
-**Status:** To be verified
+**Status:** To be verified.
 
 ---
 
@@ -57,20 +52,18 @@ Egyptian manufacturer / distributor / wholesale supplier
 ## What is the product?
 
 A premium chocolate product sourced from Egypt and potentially
-incorporated into LAXEE's curated gift collections.
+incorporated into LAXEE curated gift collections.
 
-The product may be sold as:
+Potential formats:
 
-1. A standalone LAXEE chocolate selection
-2. A component inside curated gift boxes
-3. A premium chocolate gift set
-4. A seasonal or occasion-specific collection
-
----
+- Standalone chocolate selection
+- Curated chocolate box
+- Chocolate inside a larger gift box
+- Seasonal chocolate collection
 
 ## Why could LAXEE sell it?
 
-Chocolate has strong gifting relevance and can complement several
+Chocolate has strong gifting relevance and can complement multiple
 LAXEE collections.
 
 Potential applications include:
@@ -82,152 +75,99 @@ Potential applications include:
 - Ramadan collections
 - Corporate gifting
 
-Imported Egyptian chocolate may also provide an opportunity for
-product differentiation if the specific brand or product is not
-widely available in the Bangladesh premium gifting market.
+Egyptian origin may provide differentiation if the selected product
+is not already widely available in Bangladesh.
 
-**Important:** Local availability and differentiation must be verified
-before making a purchasing decision.
-
----
+**This must be verified through market research.**
 
 ## Who would buy it?
 
 Potential customers:
 
 - Premium gift buyers
-- Customers purchasing Nikah gifts
-- Customers purchasing birthday gifts
-- Customers purchasing anniversary gifts
-- Customers looking for imported chocolates
+- Nikah gift buyers
+- Birthday gift buyers
+- Anniversary gift buyers
+- Customers seeking imported chocolates
 - Corporate gifting customers
-
----
 
 ## Why would someone gift it?
 
-Chocolate has several natural gifting advantages:
+Chocolate is:
 
-- Familiar product category
-- Easy to include in gift boxes
+- Familiar
 - Shareable
-- Suitable for celebrations
-- Strong visual appeal
-- Multiple price levels possible
-- Easy to combine with other products
+- Celebration-oriented
+- Visually attractive
+- Easy to include in gift boxes
+- Available across multiple price points
 
 ---
 
-# 03 — Market Availability in Bangladesh
+# 03 — Market Availability
 
 ## Local Availability
 
-**Status:** To be researched
+**Status:** To be researched.
 
-Questions to answer:
+Questions:
 
-- Is the exact Egyptian product already available?
-- Which retailers sell it?
+- Is the exact product already available in Bangladesh?
+- Which sellers stock it?
 - Is it available online?
 - Is it available in physical stores?
-- Is it imported officially?
-- Is it available through informal channels?
-
----
+- Is it officially imported?
 
 ## Number of Sellers
 
-**Status:** To be researched
-
-Record the number of identifiable sellers and distributors.
-
----
+To be researched.
 
 ## Retail Price
 
-**Status:** To be researched
+To be researched.
 
 Record:
 
-- Lowest observed price
-- Average observed price
-- Highest observed price
-- Product size
+- Lowest price
+- Average price
+- Highest price
+- Product weight
 - Price per gram
-
----
 
 ## Product Quality
 
-Evaluate:
+To be assessed through:
 
-- Taste
 - Ingredients
-- Cocoa content
+- Taste
 - Texture
 - Freshness
+- Cocoa content
 - Shelf life
-- Product consistency
 
-**Status:** Physical testing required
-
----
+**Physical sample required.**
 
 ## Packaging Quality
 
-Evaluate:
+To be assessed:
 
-- Outer packaging
 - Box quality
 - Material
 - Printing
-- Brand presentation
-- Gift suitability
+- Gift presentation
 - Protection during delivery
-
-**Status:** To be assessed
-
----
 
 ## Customer Reviews
 
-**Status:** To be researched
-
-Review:
-
-- Taste
-- Packaging
-- Freshness
-- Value for money
-- Delivery experience
-- Repeat purchase intention
-
----
+To be researched.
 
 ## Brand Recognition
 
-**Status:** To be researched
-
-Determine whether the selected Egyptian chocolate brand has:
-
-- Strong recognition in Egypt
-- International recognition
-- Bangladesh recognition
-- Premium positioning
-
----
+To be researched.
 
 ## Import Availability
 
-**Status:** To be researched
-
-Determine:
-
-- Existing Bangladesh importers
-- Distributor availability
-- Import requirements
-- Shelf-life requirements
-- Customs requirements
+To be researched.
 
 ---
 
@@ -235,71 +175,46 @@ Determine:
 
 ## Direct Competitors
 
-Potential competitors include:
+Potential competitors:
 
 - Imported chocolate brands
 - Premium chocolate boutiques
 - Gift box companies
 - Online chocolate sellers
 
-**Specific competitors:** To be researched
+**Specific competitors:** To be researched.
 
----
+## Indirect Competitors
 
-## Competitor Product
+Potential alternatives:
 
-**Status:** To be researched
+- Dates
+- Premium confectionery
+- Perfume
+- Small accessories
+- Other gift-box components
 
-Record:
+## Competitor Selling Price
 
-- Brand
-- Product
-- Weight
-- Packaging
-- Price
-- Country of origin
+To be researched.
 
----
-
-## Selling Price
-
-**Status:** To be researched
-
-Compare equivalent products by:
+Comparison should use:
 
 **Price per gram**
 
-rather than only comparing total box prices.
-
----
+where appropriate.
 
 ## Packaging
 
-Evaluate:
-
-- Visual quality
-- Materials
-- Premium perception
-- Gift-readiness
-- Presentation
-
----
+To be assessed.
 
 ## Quality
 
-Evaluate:
-
-- Ingredients
-- Taste
-- Freshness
-- Texture
-- Brand reputation
-
----
+To be assessed.
 
 ## Customer Experience
 
-Evaluate:
+To be assessed:
 
 - Ordering
 - Communication
@@ -308,48 +223,17 @@ Evaluate:
 - Unboxing
 - After-sales service
 
----
-
 ## Competitor Strengths
 
 To be researched.
-
-Potential areas:
-
-- Brand recognition
-- Product quality
-- Distribution
-- Packaging
-- Pricing
-
----
 
 ## Competitor Weaknesses
 
 To be researched.
 
-Potential areas:
-
-- Generic presentation
-- Limited personalization
-- Weak gifting experience
-- Poor packaging
-- Limited curation
-
 ---
 
 # 05 — Supplier Research
-
-## Supplier Type
-
-Potential suppliers:
-
-1. Manufacturer
-2. Official distributor
-3. Wholesale exporter
-4. Egyptian trading company
-
----
 
 ## Supplier Name
 
@@ -397,24 +281,6 @@ To be determined.
 
 ---
 
-# Supplier Evaluation Criteria
-
-Every supplier should eventually be evaluated on:
-
-| Criteria | Score |
-|---|---:|
-| Product Quality | /5 |
-| Price | /5 |
-| MOQ | /5 |
-| Reliability | /5 |
-| Communication | /5 |
-| Lead Time | /5 |
-| Packaging | /5 |
-| Customization | /5 |
-| Export Capability | /5 |
-
----
-
 # 06 — Cost Analysis
 
 ## Product Cost
@@ -439,7 +305,7 @@ To be determined.
 
 ## Other Costs
 
-Potential costs:
+Potentially:
 
 - Inspection
 - Storage
@@ -450,7 +316,7 @@ Potential costs:
 
 ---
 
-## Landed Cost Formula
+## Landed Cost
 
 ```text
 Product Cost
