@@ -2,26 +2,41 @@
 
 ## Purpose
 
-This section documents research conducted to identify, evaluate, and
-validate potential products for LAXEE.
+This folder contains the research records for potential LAXEE products.
 
-The objective is not simply to find attractive products.
-
-The objective is to identify products that are:
-
-- Commercially viable
-- Suitable for the LAXEE brand
-- Sufficiently differentiated
-- Reliable to source
-- Profitable
-- Appropriate for gifting
-- Relevant to the target customer
+Each product must have its own research file.
 
 ---
 
-# Product Research Framework
+# Product Naming Convention
 
-Every potential product should pass through the following stages:
+Every product receives a unique Product Research ID.
+
+Format:
+
+LAXEE-PR-001
+
+File naming format:
+
+001-Product-Name.md
+
+Examples:
+
+001-Egyptian-Chocolate.md
+002-Premium-Perfume.md
+003-Nikah-Quran-Set.md
+
+### Rules
+
+- Use three-digit numbering.
+- Never reuse a product number.
+- Keep the product number permanent.
+- Use clear and consistent product names.
+- Keep one product per file.
+
+---
+
+# Research Workflow
 
 ```text
 IDEA
@@ -38,8 +53,12 @@ COST ANALYSIS
   ↓
 BRAND FIT
   ↓
-PROTOTYPE
+PRODUCT SCORE
   ↓
-VALIDATION
+RISK ASSESSMENT
   ↓
-DECISION
+RECOMMENDATION
+  ↓
+TEST
+  ↓
+PROCEED / REJECT
