@@ -140,14 +140,36 @@ Examples may include:
 
 ---
 
-# 03. Candidate Discovery
+## 03. Candidate Discovery
 
-Each product idea will receive a unique Product Candidate ID.
+At this stage, we are building a broad pool of possible products for the LAXEE Nikah Signature Box.
 
-### ID Format
+No product is approved or rejected at this stage.
 
-```text
-P-001
-P-002
-P-003
-...
+---
+
+### 03.01 — Hero Product
+
+The Hero Product is the main attraction of the Nikah Signature Box.
+
+It should have strong potential for:
+
+- Memorability
+- Premium perception
+- Nikah relevance
+- Emotional value
+- LAXEE signature potential
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-001 | Premium Perfume | Candidate |
+| P-002 | Premium Quran | Candidate |
+| P-003 | Signature Couple Keepsake | Candidate |
+| P-004 | Premium Attar | Candidate |
+| P-005 | Luxury Islamic Artwork | Candidate |
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Hero Product has been selected yet.
