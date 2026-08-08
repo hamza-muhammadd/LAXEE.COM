@@ -360,3 +360,44 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Keepsake product has been selected yet.
+
+### 03.07 — Experience Element
+
+The Experience Element is designed to make receiving and opening the LAXEE Nikah Signature Box memorable.
+
+Unlike a conventional product, this element focuses on the **experience surrounding the gift**.
+
+Its purpose is to create anticipation, surprise, emotion and a memorable unboxing journey.
+
+#### Candidate Pool
+
+| ID | Experience Element | Status |
+|---|---|---|
+| P-049 | Personalized Reveal Card | Candidate |
+| P-050 | Hidden Message | Candidate |
+| P-051 | Layered Unboxing Experience | Candidate |
+| P-052 | Product Story Cards | Candidate |
+| P-053 | Couple Message Reveal | Candidate |
+| P-054 | Scented Unboxing Element | Candidate |
+| P-055 | Sequential Message Cards | Candidate |
+| P-056 | Special Opening Mechanism | Candidate |
+| P-057 | Nikah Blessing Card | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Emotional impact
+- Surprise factor
+- Memorability
+- Brand differentiation
+- Premium feel
+- Ease of execution
+- Personalization potential
+- Unboxing quality
+- Cost viability
+- LAXEE signature potential
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Experience Element has been selected yet.
