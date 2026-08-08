@@ -321,3 +321,42 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Gourmet / Consumable product has been selected yet.
+
+### 03.06 — Keepsake
+
+The Keepsake element is intended to remain with the recipient as a lasting reminder of the Nikah and the people who gave the gift.
+
+The purpose is to extend the emotional life of the gift beyond the moment of unboxing.
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-040 | Engraved Couple Keepsake | Candidate |
+| P-041 | Personalized Nikah Keepsake | Candidate |
+| P-042 | Couple Memory Box | Candidate |
+| P-043 | Personalized Photo Frame | Candidate |
+| P-044 | Engraved Decorative Piece | Candidate |
+| P-045 | Couple Journal | Candidate |
+| P-046 | Wedding Date Keepsake | Candidate |
+| P-047 | Personalized Name Artwork | Candidate |
+| P-048 | Custom Calligraphy Keepsake | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Emotional significance
+- Long-term value
+- Nikah relevance
+- Personalization potential
+- Premium quality
+- Aesthetic compatibility
+- Uniqueness
+- Durability
+- Customer appeal
+- LAXEE signature potential
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Keepsake product has been selected yet.
