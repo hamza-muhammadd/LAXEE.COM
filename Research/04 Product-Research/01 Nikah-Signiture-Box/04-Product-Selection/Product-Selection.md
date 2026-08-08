@@ -444,34 +444,95 @@ Candidates will later be evaluated based on:
 
 ## 04. Candidate Screening
 
-Candidates are screened using six criteria:
+Candidate screening determines which discovered products deserve further evaluation.
 
-- Nikah Fit
-- Emotional Value
-- Premium Feel
-- LAXEE Fit
-- Box Fit
-- Feasibility
+At this stage, we are NOT approving final products.
 
-### Screening — Batch 01
+Each candidate is evaluated against:
+
+1. Nikah Fit
+2. Emotional Value
+3. Premium Feel
+4. LAXEE Fit
+5. Box Fit
+6. Feasibility
+
+### Decision Labels
+
+- **KEEP** — Strong candidate; proceed to deeper evaluation.
+- **MAYBE** — Potential candidate; retain for consideration but lower priority.
+- **REJECT** — Does not justify further consideration for this Signature Box.
+
+> KEEP does not mean APPROVED.
+
+---
+
+### Screening Table
 
 | ID | Product | Primary Role | Nikah Fit | Emotional | Premium | LAXEE Fit | Box Fit | Feasibility | Decision |
 |---|---|---|---|---|---|---|---|---|---|
-| P-001 | Premium Perfume | Hero / Personal Luxury | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-001 | Premium Perfume | Personal Luxury | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
 | P-002 | Premium Quran | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
 | P-003 | Signature Couple Keepsake | Couple / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | KEEP |
 | P-004 | Premium Attar | Personal Luxury | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
-| P-005 | Luxury Islamic Artwork | Nikah / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-005 | Luxury Islamic Artwork | Nikah / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | MAYBE |
 | P-006 | Elegant Tasbih | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-007 | Nikah Dua Card | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-008 | Premium Islamic Book | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | 🟢 | MAYBE |
+| P-009 | Premium Prayer Mat | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | MAYBE |
+| P-010 | Islamic Calligraphy | Nikah / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-011 | Personalized Couple Letter | Emotional | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-012 | Custom Couple Card | Emotional | 🟢 | 🟢 | 🟡 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-013 | Personalized Couple Journal | Emotional / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-014 | Custom Couple Artwork | Emotional / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-015 | Wedding Date Keepsake | Emotional / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-016 | Personalized Name Plaque | Emotional / Keepsake | 🟢 | 🟢 | 🟢 | 🟡 | 🟡 | 🟢 | MAYBE |
+| P-017 | Luxury Candle | Personal Luxury | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-018 | Premium Home Fragrance | Personal Luxury | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-019 | Premium Fragrance Discovery Set | Personal Luxury | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟡 | MAYBE |
+| P-020 | Premium Chocolate | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-021 | Egyptian Premium Chocolate | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | KEEP |
+| P-022 | Premium Dates | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-023 | Stuffed Dates | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-024 | Premium Nuts | Gourmet | 🟡 | 🟢 | 🟢 | 🟡 | 🟢 | 🟢 | MAYBE |
+| P-025 | Luxury Confectionery | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-026 | Premium Tea | Gourmet | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-027 | Specialty Coffee | Gourmet | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-028 | Premium Honey | Gourmet | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-029 | Engraved Couple Keepsake | Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | KEEP |
+| P-030 | Couple Memory Box | Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟡 | MAYBE |
+| P-031 | Personalized Photo Frame | Keepsake | 🟢 | 🟢 | 🟡 | 🟢 | 🟡 | 🟢 | MAYBE |
+| P-032 | Engraved Decorative Piece | Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟡 | MAYBE |
+| P-033 | Custom Calligraphy Keepsake | Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-034 | Personalized Reveal Card | Experience | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-035 | Hidden Message | Experience | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-036 | Product Story Cards | Experience | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-037 | Special Opening Mechanism | Experience | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | KEEP |
+| P-038 | Signature Gift Box | Presentation | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-039 | Premium Inner Tray | Presentation | 🟢 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-040 | Custom Tissue Paper | Presentation | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-041 | Premium Ribbon | Presentation | 🟡 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | MAYBE |
+| P-042 | LAXEE Greeting Card | Presentation | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-043 | Product Information Cards | Presentation | 🟢 | 🟡 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-044 | Personalized Name Card | Presentation | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-045 | Signature Box Closure | Presentation | 🟢 | 🟡 | 🟢 | 🟢 | 🟢 | 🟡 | MAYBE |
 
-### Screening Rule
+---
 
-**KEEP** = Worth taking into deeper evaluation.
+## Screening Outcome
 
-**MAYBE** = Potential, but requires stronger justification.
+The screening stage does not determine the final box composition.
 
-**REJECT** = Does not fit the Signature Box concept.
+It only identifies products that deserve deeper evaluation.
 
-> KEEP does not mean APPROVED.
->
-> Final approval requires product research, market validation, competitor analysis, sourcing, quality and financial evaluation.
+### Current Direction
+
+**KEEP** → Proceed to scoring.
+
+**MAYBE** → Retain as secondary options.
+
+**REJECT** → Remove from active consideration.
+
+### Next Stage
+
+**05 — Product Scoring**
