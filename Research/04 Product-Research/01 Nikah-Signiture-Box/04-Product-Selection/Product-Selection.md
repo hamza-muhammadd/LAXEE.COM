@@ -7,235 +7,147 @@
 **Market:** Bangladesh  
 **Stage:** 04 — Product Selection  
 **Status:** In Progress  
-**Research Date:** 08 August 2026
+**Started:** 08 August 2026
 
 ---
 
-# 01. Objective
+# 01. Purpose
 
-The purpose of this stage is to determine which products should be considered for inclusion in the LAXEE Nikah Signature Box.
+The purpose of this stage is to determine what products should be included in the LAXEE Nikah Signature Box.
 
-This stage will:
+LAXEE will not select products simply because they look attractive or are popular.
 
-- Generate product candidates
-- Categorize candidates
-- Evaluate suitability
-- Remove weak candidates
-- Shortlist strong candidates
-- Prepare selected products for detailed Product Research
+Every product must have a clear role in creating the overall:
 
-### Core Question
+> **Meaning + Emotion + Luxury + Delight + Memory + Experience**
 
-> Which products should LAXEE consider for the Nikah Signature Box?
+### Core Principle
+
+> **Every product must have a reason to exist.**
 
 ---
 
-# 02. Selection Principle
+# 02. Product Composition Framework
 
-A product should not be selected simply because it is:
+The Nikah Signature Box will be designed around eight product roles.
 
-- Popular
-- Beautiful
-- Expensive
-- Easy to source
-- Commonly found in gift boxes
+## 01 — Hero Product
 
-Each product must contribute to the overall:
+The main attraction of the box.
 
-> **Meaning + Experience + Aesthetic + Value + Practicality**
-
-of the Nikah Signature Box.
+The product that should be most memorable and potentially become a signature element of the LAXEE experience.
 
 ---
 
-# 03. Product Architecture
+## 02 — Nikah / Islamic Element
 
-Potential product categories:
+The element that connects the gift with the meaning and identity of Nikah.
 
-### A. Emotional / Keepsake
-
-Products that create sentimental value.
-
-Examples:
-
-- Personalized keepsake
-- Couple memory card
-- Message card
-- Custom artwork
-- Nikah date keepsake
-
-### B. Islamic / Nikah Related
-
-Products that connect naturally with the occasion.
-
-Examples:
+Examples may include:
 
 - Quran
+- Tasbih
 - Dua card
 - Islamic book
-- Tasbih
-- Prayer-related item
+- Nikah keepsake
+- Islamic artwork
 
-### C. Personal Care / Lifestyle
+---
 
-Products intended for the bride, groom or couple.
+## 03 — Couple / Emotional Element
 
-Examples:
+The element that communicates love, connection and personal sentiment.
 
-- Perfume
+Examples may include:
+
+- Personalized letter
+- Couple card
+- Custom artwork
+- Couple journal
+- Personalized message
+
+---
+
+## 04 — Personal Luxury
+
+A refined personal item that makes the recipient feel valued.
+
+Examples may include:
+
+- Premium perfume
 - Attar
-- Candle
-- Grooming item
-- Self-care product
+- Premium candle
+- Luxury accessory
+- Personal care item
 
-### D. Food / Confectionery
+---
 
-Consumable premium gifts.
+## 05 — Gourmet / Consumable
 
-Examples:
+An enjoyable sensory element.
+
+Examples may include:
 
 - Premium chocolate
 - Dates
 - Nuts
-- Sweets
 - Specialty confectionery
+- Tea / coffee
 
-### E. Home / Couple Experience
+---
 
-Products intended for shared use.
+## 06 — Keepsake
 
-Examples:
+An item intended to remain as a long-term memory of the occasion.
 
-- Decorative item
-- Candle
-- Couple mug
-- Home fragrance
-- Serving item
+Examples may include:
 
-### F. Packaging / Presentation Elements
+- Engraved item
+- Couple keepsake
+- Personalized artwork
+- Couple journal
+- Decorative object
 
-Elements that form part of the experience.
+---
 
-Examples:
+## 07 — Experience Element
+
+An element designed specifically to make receiving and opening the gift memorable.
+
+Examples may include:
+
+- Reveal card
+- Hidden message
+- Product story card
+- Layered unboxing
+- Special opening mechanism
+
+---
+
+## 08 — Presentation Element
+
+The physical and visual system that turns the products into a LAXEE experience.
+
+Examples may include:
 
 - Signature box
-- Greeting card
-- Ribbon
+- Inner tray
 - Tissue
+- Ribbon
+- Greeting card
 - Product cards
-- Authentication / care card
+- Brand card
 
 ---
 
-# 04. Candidate Product Pool
+# 03. Candidate Discovery
 
-The initial candidate pool should be broad.
+Each product idea will receive a unique Product Candidate ID.
 
-| ID | Product | Category | Status |
-|---|---|---|---|
-| P-001 | Premium Chocolate | Confectionery | Candidate |
-| P-002 | Premium Dates | Confectionery | Candidate |
-| P-003 | Perfume | Lifestyle | Candidate |
-| P-004 | Attar | Islamic / Lifestyle | Candidate |
-| P-005 | Tasbih | Islamic | Candidate |
-| P-006 | Quran | Islamic | Candidate |
-| P-007 | Islamic Book | Islamic | Candidate |
-| P-008 | Personalized Keepsake | Emotional | Candidate |
-| P-009 | Couple Message Card | Emotional | Candidate |
-| P-010 | Premium Candle | Home / Lifestyle | Candidate |
-| P-011 | Home Fragrance | Home / Lifestyle | Candidate |
-| P-012 | Couple Decorative Item | Home | Candidate |
-
-This list is intentionally preliminary.
-
-More candidates can be added during research.
-
----
-
-# 05. Product Selection Criteria
-
-Every candidate will be evaluated against the following criteria.
-
-## 01 — Occasion Relevance
-
-Does the product naturally belong in a Nikah gift?
-
-## 02 — Emotional Value
-
-Does the product communicate love, care, blessing or remembrance?
-
-## 03 — Perceived Value
-
-Does the product feel valuable enough to justify inclusion?
-
-## 04 — Premium Potential
-
-Can the product be sourced and presented at LAXEE's desired quality level?
-
-## 05 — Aesthetic Compatibility
-
-Does it fit the LAXEE visual identity?
-
-## 06 — Practicality
-
-Is it useful or enjoyable for the recipient?
-
-## 07 — Uniqueness
-
-Does it help LAXEE avoid looking like a generic gift box?
-
-## 08 — Availability
-
-Can it be sourced consistently?
-
-## 09 — Cost Viability
-
-Can it fit within a commercially viable product cost?
-
-## 10 — Experience Contribution
-
-Does it improve the overall unboxing experience?
-
----
-
-# 06. Selection Score
-
-Each product will receive a score from **1–5** for each criterion.
-
-| Criterion | Score |
-|---|---:|
-| Occasion Relevance | /5 |
-| Emotional Value | /5 |
-| Perceived Value | /5 |
-| Premium Potential | /5 |
-| Aesthetic Compatibility | /5 |
-| Practicality | /5 |
-| Uniqueness | /5 |
-| Availability | /5 |
-| Cost Viability | /5 |
-| Experience Contribution | /5 |
-
-### Maximum Score
-
-**50 points**
-
----
-
-# 07. Selection Status
-
-Products will move through the following stages:
+### ID Format
 
 ```text
-Candidate
-   ↓
-Screening
-   ↓
-Shortlisted
-   ↓
-Product Research
-   ↓
-Approved
-   ↓
-Final Product
-   ↓
-Products/
+P-001
+P-002
+P-003
+...
