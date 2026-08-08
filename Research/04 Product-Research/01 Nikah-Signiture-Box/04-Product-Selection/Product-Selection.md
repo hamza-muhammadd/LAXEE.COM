@@ -444,7 +444,7 @@ Candidates will later be evaluated based on:
 
 ## 04. Candidate Screening
 
-Each candidate will be screened based on:
+Candidates are screened using six criteria:
 
 - Nikah Fit
 - Emotional Value
@@ -453,23 +453,25 @@ Each candidate will be screened based on:
 - Box Fit
 - Feasibility
 
-### Screening Status
+### Screening — Batch 01
 
-| ID | Product | Role | Decision | Reason |
-|---|---|---|---|---|
-| P-001 | Premium Perfume | Hero | TBD | |
-| P-002 | Premium Quran | Hero | TBD | |
-| P-003 | Signature Couple Keepsake | Hero | TBD | |
-| ... | ... | ... | ... | |
+| ID | Product | Primary Role | Nikah Fit | Emotional | Premium | LAXEE Fit | Box Fit | Feasibility | Decision |
+|---|---|---|---|---|---|---|---|---|---|
+| P-001 | Premium Perfume | Hero / Personal Luxury | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-002 | Premium Quran | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-003 | Signature Couple Keepsake | Couple / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | KEEP |
+| P-004 | Premium Attar | Personal Luxury | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
+| P-005 | Luxury Islamic Artwork | Nikah / Keepsake | 🟢 | 🟢 | 🟢 | 🟢 | 🟡 | 🟢 | KEEP |
+| P-006 | Elegant Tasbih | Nikah / Islamic | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | KEEP |
 
-### Decision Rules
+### Screening Rule
 
-**KEEP** — Strong candidate for further evaluation.
+**KEEP** = Worth taking into deeper evaluation.
 
-**MAYBE** — Potential, but requires stronger justification.
+**MAYBE** = Potential, but requires stronger justification.
 
-**REJECT** — Does not fit the Signature Box concept.
+**REJECT** = Does not fit the Signature Box concept.
 
-**Current Status:** Pending
-
-| P-001 | Premium Perfume | Hero | KEEP | Strong luxury, personal value, memorability and Signature-tier fit |
+> KEEP does not mean APPROVED.
+>
+> Final approval requires product research, market validation, competitor analysis, sourcing, quality and financial evaluation.
