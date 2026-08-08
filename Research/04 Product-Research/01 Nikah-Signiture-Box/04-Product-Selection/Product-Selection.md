@@ -281,3 +281,43 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Personal Luxury product has been selected yet.
+
+### 03.05 — Gourmet / Consumable
+
+The Gourmet / Consumable element adds sensory pleasure and immediate enjoyment to the Nikah Signature Box.
+
+The purpose is to introduce something the recipients can taste, enjoy or share while maintaining LAXEE's premium standard.
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-030 | Premium Chocolate | Candidate |
+| P-031 | Egyptian Premium Chocolate | Candidate |
+| P-032 | Premium Dates | Candidate |
+| P-033 | Stuffed Dates | Candidate |
+| P-034 | Premium Nuts | Candidate |
+| P-035 | Luxury Confectionery | Candidate |
+| P-036 | Premium Tea | Candidate |
+| P-037 | Specialty Coffee | Candidate |
+| P-038 | Premium Honey | Candidate |
+| P-039 | Gourmet Sweet Selection | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Taste and quality
+- Premium perception
+- Product presentation
+- Nikah / gifting suitability
+- Shelf life
+- Sourcing feasibility
+- Packaging compatibility
+- Customer appeal
+- Cost viability
+- Unboxing experience
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Gourmet / Consumable product has been selected yet.
