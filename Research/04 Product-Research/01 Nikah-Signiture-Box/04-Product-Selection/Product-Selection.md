@@ -533,6 +533,79 @@ It only identifies products that deserve deeper evaluation.
 
 **REJECT** → Remove from active consideration.
 
-### Next Stage
+## 05. Product Scoring
 
-**05 — Product Scoring**
+Product scoring is used to objectively compare candidates that passed the initial screening stage.
+
+Scoring does not automatically approve a product.
+
+### Scoring Criteria
+
+| Criterion | Weight |
+|---|---:|
+| Nikah Fit | 20% |
+| Emotional Value | 20% |
+| Premium Perception | 20% |
+| LAXEE Fit | 15% |
+| Box Fit | 15% |
+| Feasibility | 10% |
+| **Total** | **100%** |
+
+### Scoring Scale
+
+| Score | Meaning |
+|---:|---|
+| 1 | Very Weak |
+| 2 | Weak |
+| 3 | Moderate |
+| 4 | Strong |
+| 5 | Exceptional |
+
+### Weighted Score Formula
+
+Final Score =
+(Nikah Fit × 20%)
++ (Emotional Value × 20%)
++ (Premium Perception × 20%)
++ (LAXEE Fit × 15%)
++ (Box Fit × 15%)
++ (Feasibility × 10%)
+
+### Score Interpretation
+
+| Score Range | Interpretation |
+|---:|---|
+| 4.50–5.00 | Exceptional Candidate |
+| 4.00–4.49 | Strong Candidate |
+| 3.50–3.99 | Promising Candidate |
+| 3.00–3.49 | Weak Candidate |
+| Below 3.00 | Low Priority |
+
+> Scores are decision-support tools, not automatic approval criteria.
+
+---
+
+## Scoring Table
+
+| ID | Product | Nikah | Emotional | Premium | LAXEE | Box Fit | Feasibility | Final Score | Rank |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| P-001 | Premium Perfume | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-002 | Premium Quran | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-003 | Signature Couple Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-004 | Premium Attar | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-006 | Elegant Tasbih | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-007 | Nikah Dua Card | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-010 | Islamic Calligraphy | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-011 | Personalized Couple Letter | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-013 | Personalized Couple Journal | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-014 | Custom Couple Artwork | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-015 | Wedding Date Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-020 | Premium Chocolate | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-021 | Egyptian Premium Chocolate | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-022 | Premium Dates | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-029 | Engraved Couple Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-033 | Custom Calligraphy Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-034 | Personalized Reveal Card | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-035 | Hidden Message | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-036 | Product Story Cards | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-037 | Special Opening Mechanism | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
