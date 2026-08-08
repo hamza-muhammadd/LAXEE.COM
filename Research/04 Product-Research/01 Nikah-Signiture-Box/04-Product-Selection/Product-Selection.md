@@ -441,3 +441,33 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Presentation Element has been selected yet.
+
+## 04. Candidate Screening
+
+Each candidate will be screened based on:
+
+- Nikah Fit
+- Emotional Value
+- Premium Feel
+- LAXEE Fit
+- Box Fit
+- Feasibility
+
+### Screening Status
+
+| ID | Product | Role | Decision | Reason |
+|---|---|---|---|---|
+| P-001 | Premium Perfume | Hero | TBD | |
+| P-002 | Premium Quran | Hero | TBD | |
+| P-003 | Signature Couple Keepsake | Hero | TBD | |
+| ... | ... | ... | ... | |
+
+### Decision Rules
+
+**KEEP** — Strong candidate for further evaluation.
+
+**MAYBE** — Potential, but requires stronger justification.
+
+**REJECT** — Does not fit the Signature Box concept.
+
+**Current Status:** Pending
