@@ -243,3 +243,41 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Couple / Emotional Element has been selected yet.
+
+### 03.04 — Personal Luxury
+
+The Personal Luxury element introduces refinement, indulgence and personal value to the Nikah Signature Box.
+
+The purpose is to include something that makes the recipient feel personally valued while strengthening the premium character of the overall gift.
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-022 | Premium Perfume | Candidate |
+| P-023 | Premium Attar | Candidate |
+| P-024 | Luxury Candle | Candidate |
+| P-025 | Premium Home Fragrance | Candidate |
+| P-026 | Luxury Grooming Item | Candidate |
+| P-027 | Premium Personal Care Set | Candidate |
+| P-028 | Luxury Accessories | Candidate |
+| P-029 | Premium Fragrance Discovery Set | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Premium perception
+- Product quality
+- Recipient suitability
+- Personal value
+- Aesthetic compatibility
+- Brand fit
+- Uniqueness
+- Sourcing feasibility
+- Cost viability
+- Unboxing appeal
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Personal Luxury product has been selected yet.
