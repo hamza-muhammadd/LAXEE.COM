@@ -471,3 +471,5 @@ Each candidate will be screened based on:
 **REJECT** — Does not fit the Signature Box concept.
 
 **Current Status:** Pending
+
+| P-001 | Premium Perfume | Hero | KEEP | Strong luxury, personal value, memorability and Signature-tier fit |
