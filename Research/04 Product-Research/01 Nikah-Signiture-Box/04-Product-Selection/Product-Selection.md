@@ -1,4 +1,4 @@
--# LAXEE — Product Selection
+# LAXEE — Product Selection
 
 ## Product Research Project
 
