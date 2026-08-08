@@ -170,6 +170,41 @@ It should have strong potential for:
 | P-004 | Premium Attar | Candidate |
 | P-005 | Luxury Islamic Artwork | Candidate |
 
+### 03.02 — Nikah / Islamic Element
+
+The Nikah / Islamic Element connects the gift with the meaning, spirituality and identity of the Nikah occasion.
+
+The purpose is not to add an Islamic product simply for appearance.
+
+It should contribute genuine meaning to the overall gifting experience.
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-006 | Premium Quran | Candidate |
+| P-007 | Elegant Tasbih | Candidate |
+| P-008 | Nikah Dua Card | Candidate |
+| P-009 | Premium Islamic Book | Candidate |
+| P-010 | Personalized Nikah Keepsake | Candidate |
+| P-011 | Islamic Calligraphy Artwork | Candidate |
+| P-012 | Premium Prayer Mat | Candidate |
+| P-013 | Nikah Blessing / Message Card | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Authentic Nikah relevance
+- Emotional and spiritual meaning
+- Quality
+- Premium presentation potential
+- Recipient usefulness
+- Cultural appropriateness
+- LAXEE aesthetic compatibility
+- Uniqueness
+
 **Current Status:** Candidate Discovery
 
-**Decision:** No Hero Product has been selected yet.
+**Decision:** No Nikah / Islamic Element has been selected yet.
+
