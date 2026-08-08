@@ -8,9 +8,8 @@
 06. Brand Positioning
 07. Brand Personality
 08. Brand Promise
-
-
-# LAXEE — Brand Foundation
+   
+-----------------------------------------------------------
 
 > **Quiet Opulence**
 
