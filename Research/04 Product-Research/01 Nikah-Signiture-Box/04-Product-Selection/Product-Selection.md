@@ -207,4 +207,39 @@ Candidates will later be evaluated based on:
 **Current Status:** Candidate Discovery
 
 **Decision:** No Nikah / Islamic Element has been selected yet.
+### 03.03 — Couple / Emotional Element
 
+The Couple / Emotional Element is designed to express love, connection and personal sentiment between the couple.
+
+The purpose is to make the gift feel personal and meaningful rather than simply a collection of products.
+
+#### Candidate Pool
+
+| ID | Product | Status |
+|---|---|---|
+| P-014 | Personalized Couple Letter | Candidate |
+| P-015 | Custom Couple Card | Candidate |
+| P-016 | Personalized Couple Journal | Candidate |
+| P-017 | Custom Couple Artwork | Candidate |
+| P-018 | Wedding Date Keepsake | Candidate |
+| P-019 | Personalized Name Plaque | Candidate |
+| P-020 | Couple Memory Card Set | Candidate |
+| P-021 | Personalized Message Book | Candidate |
+
+#### Selection Considerations
+
+Candidates will later be evaluated based on:
+
+- Emotional value
+- Personalization potential
+- Memorability
+- Nikah relevance
+- Premium presentation potential
+- Long-term sentimental value
+- Aesthetic compatibility
+- Uniqueness
+- Customer appeal
+
+**Current Status:** Candidate Discovery
+
+**Decision:** No Couple / Emotional Element has been selected yet.
