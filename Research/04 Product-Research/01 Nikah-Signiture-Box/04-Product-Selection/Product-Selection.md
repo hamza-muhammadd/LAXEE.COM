@@ -609,3 +609,31 @@ Final Score =
 | P-035 | Hidden Message | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
 | P-036 | Product Story Cards | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
 | P-037 | Special Opening Mechanism | 4 | 5 | 5 | 5 | 5 | 3 | **4.60** | 16 |
+
+
+### 05.5 Ranking Summary
+
+| Rank | ID | Product | Final Score |
+|---:|---|---|---:|
+| 1 | P-015 | Wedding Date Keepsake | 4.90 |
+| 1 | P-029 | Engraved Couple Keepsake | 4.90 |
+| 3 | P-003 | Signature Couple Keepsake | 4.80 |
+| 3 | P-007 | Nikah Dua Card | 4.80 |
+| 3 | P-011 | Personalized Couple Letter | 4.80 |
+| 3 | P-022 | Premium Dates | 4.80 |
+| 3 | P-034 | Personalized Reveal Card | 4.80 |
+| 3 | P-035 | Hidden Message | 4.80 |
+| 3 | P-036 | Product Story Cards | 4.80 |
+| 10 | P-002 | Premium Quran | 4.75 |
+| 10 | P-010 | Islamic Calligraphy | 4.75 |
+| 10 | P-014 | Custom Couple Artwork | 4.75 |
+| 10 | P-033 | Custom Calligraphy Keepsake | 4.75 |
+| 14 | P-001 | Premium Perfume | 4.70 |
+| 14 | P-004 | Premium Attar | 4.70 |
+| 16 | P-006 | Elegant Tasbih | 4.60 |
+| 16 | P-037 | Special Opening Mechanism | 4.60 |
+| 18 | P-013 | Personalized Couple Journal | 4.55 |
+| 19 | P-020 | Premium Chocolate | 4.45 |
+| 20 | P-021 | Egyptian Premium Chocolate | 4.25 |
+
+Complete product scoring results for Nikah Signature Box
