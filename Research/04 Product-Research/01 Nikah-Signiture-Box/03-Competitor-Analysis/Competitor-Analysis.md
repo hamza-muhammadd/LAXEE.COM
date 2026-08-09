@@ -1,195 +1,209 @@
 # LAXEE — Competitor Analysis
 
-## Product Research Project
-
 **Project ID:** NIKAH-001  
 **Product:** Nikah Signature Box  
-**Market:** Bangladesh  
-**Stage:** 03 — Competitor Analysis  
-**Status:** In Progress  
-**Research Date:** 08 August 2026
+**Tier:** Signature  
+**Status:** Researching
 
 ---
 
-# 01. Objective
+## Objective
 
-Identify LAXEE's relevant competitors and understand:
+To identify, study, compare, and evaluate competitors relevant to the LAXEE Nikah Signature Box.
 
-- What they sell
-- Who they target
-- Their price positioning
-- Their packaging
-- Their customization
-- Their strengths
-- Their weaknesses
-- Their market positioning
+The purpose is to understand:
 
-### Core Question
-
-> What are competitors doing, and where can LAXEE differentiate?
-
----
-
-# 02. Competitor Landscape
-
-| ID | Competitor | Category | Positioning | Relevance |
-|---|---|---|---|---|
-| C-001 | Noorbi | Custom Gift Boxes | Premium | High |
-| C-002 | Deenbz | Personalized Gifting | Premium | High |
-| C-003 | Tanukrit | Custom Hampers | Luxury | High |
-| C-004 | Chondon Express | Gift Hampers | Premium | High |
-| C-005 | UpoharBD | Wedding Gifting | General–Premium | Medium-High |
+- Existing market offerings
+- Product composition
+- Pricing
+- Positioning
+- Quality
+- Personalization
+- Packaging
+- Customer experience
+- Strengths
+- Weaknesses
+- Market gaps
+- Differentiation opportunities
 
 ---
 
-# 03. Competitive Matrix
+## Competitor Scope
 
-| Factor | C-001 | C-002 | C-003 | C-004 | C-005 |
+Competitors will be divided into four groups:
+
+### 01 — Direct Competitors
+
+Businesses offering premium wedding / Nikah gift boxes or highly similar curated gifting products.
+
+### 02 — Indirect Competitors
+
+Businesses offering premium personalized gifts that could replace the LAXEE Signature Box.
+
+### 03 — Product-Level Competitors
+
+Businesses selling individual products that may become components of the LAXEE box.
+
+Examples:
+
+- Premium perfume
+- Attar
+- Quran
+- Calligraphy
+- Chocolate
+- Dates
+- Couple keepsakes
+
+### 04 — Experience / Premium Gifting Competitors
+
+Brands competing primarily through:
+
+- Luxury presentation
+- Personalization
+- Curation
+- Unboxing
+- Premium customer experience
+
+---
+
+## Competitor Research Framework
+
+Each competitor will be evaluated on:
+
+1. Brand Positioning
+2. Target Customer
+3. Product Offering
+4. Product Composition
+5. Pricing
+6. Product Quality
+7. Personalization
+8. Packaging
+9. Unboxing Experience
+10. Customer Experience
+11. Delivery / Availability
+12. Brand Presentation
+13. Strengths
+14. Weaknesses
+15. Differentiation
+
+---
+
+## Competitor Record
+
+| ID | Competitor | Type | Product | Price | Personalization | Packaging | Positioning | Status |
+|---|---|---|---|---:|---|---|---|---|
+| C-001 | TBD | Direct | TBD | TBD | TBD | TBD | TBD | Researching |
+| C-002 | TBD | Direct | TBD | TBD | TBD | TBD | TBD | Researching |
+| C-003 | TBD | Indirect | TBD | TBD | TBD | TBD | TBD | Researching |
+| C-004 | TBD | Product-Level | TBD | TBD | TBD | TBD | TBD | Researching |
+| C-005 | TBD | Experience | TBD | TBD | TBD | TBD | TBD | Researching |
+
+---
+
+## Competitor Deep-Dive
+
+Each important competitor will receive an individual research record covering:
+
+### Company / Brand
+
+### Product
+
+### Price
+
+### Target Customer
+
+### Product Composition
+
+### Quality
+
+### Packaging
+
+### Personalization
+
+### Customer Experience
+
+### Strengths
+
+### Weaknesses
+
+### LAXEE Opportunity
+
+---
+
+## Comparative Analysis
+
+After competitor research, competitors will be compared across:
+
+| Dimension | C-001 | C-002 | C-003 | C-004 | C-005 |
 |---|---|---|---|---|---|
-| Gift Boxes | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Customization | High | High | High | Medium | Medium |
-| Premium Packaging | High | High | High | High | Medium |
-| Wedding Focus | High | Medium | High | Medium | High |
-| Nikah Specialization | To Research | To Research | To Research | To Research | To Research |
-| Product Curation | High | High | High | High | Medium |
-| Digital Experience | High | High | Medium | Medium | Medium |
-
-**Note:** Ratings are preliminary and will be updated as deeper research is completed.
-
----
-
-# 04. Key Competitor Findings
-
-## C-001 — Noorbi
-
-**Strengths**
-- Custom gift-box builder
-- Multiple box sizes
-- Wedding gifting
-- Strong customization
-- Clear online ordering
-
-**LAXEE Learning**
-> Customization alone cannot be LAXEE's USP.
+| Product Quality | TBD | TBD | TBD | TBD | TBD |
+| Premium Perception | TBD | TBD | TBD | TBD | TBD |
+| Personalization | TBD | TBD | TBD | TBD | TBD |
+| Packaging | TBD | TBD | TBD | TBD | TBD |
+| Unboxing | TBD | TBD | TBD | TBD | TBD |
+| Nikah Relevance | TBD | TBD | TBD | TBD | TBD |
+| Emotional Value | TBD | TBD | TBD | TBD | TBD |
+| Price Position | TBD | TBD | TBD | TBD | TBD |
 
 ---
 
-## C-002 — Deenbz
+## Market Gaps
 
-**Strengths**
-- Personalized gifting
-- Premium packaging
-- Curated gifts
-- Digital gift discovery
+To be identified through competitor research.
 
-**LAXEE Learning**
-> A strong digital experience can reduce customer decision friction.
+Potential areas:
 
----
-
-## C-003 — Tanukrit
-
-**Strengths**
-- Luxury hamper positioning
-- Emotional storytelling
-- Custom curation
-- Personalization
-
-**LAXEE Learning**
-> Emotional positioning must be supported by actual product experience.
-
----
-
-## C-004 — Chondon Express
-
-**Strengths**
-- Premium hampers
-- Higher price points
-- Clear premium positioning
-
-**LAXEE Learning**
-> There is evidence of a premium gifting segment in Bangladesh.
-
----
-
-## C-005 — UpoharBD
-
-**Strengths**
-- Wedding gifting
-- Broad catalogue
-- Established occasion-based gifting
-
-**LAXEE Learning**
-> LAXEE should avoid becoming another broad gift marketplace.
-
----
-
-# 05. Competitive Patterns
-
-Several common features already exist in the market:
-
-- Gift boxes
-- Curated hampers
-- Personalization
-- Premium packaging
-- Wedding gifting
-- Emotional messaging
-- Online ordering
-
-Therefore, these features alone are **not sufficient differentiation**.
-
----
-
-# 06. Potential Market Gap
-
-The initial opportunity appears to be between:
-
-**Generic Gift Box**
-
-and
-
-**Luxury Wedding Experience**
-
-Potential LAXEE territory:
-
-> **Premium, curated, meaningful Nikah gifting.**
-
-Possible differentiation:
-
-- Nikah-specific curation
-- Strong product meaning
-- Refined aesthetics
-- Premium packaging
+- Product curation
+- Nikah-specific positioning
+- Islamic + contemporary design
 - Personalization
 - Emotional storytelling
-- Structured product tiers
-- Consistent customer experience
+- Premium presentation
+- Unboxing experience
+- Keepsake value
+
+These are hypotheses until supported by competitor evidence.
 
 ---
 
-# 07. LAXEE Competitive Hypothesis
+## Strategic Findings
 
-LAXEE should not simply sell:
+To be completed after competitor research.
 
-> Products inside a box.
+### What competitors do well
 
-LAXEE should aim to create:
+TBD
 
-> **A complete gifting experience around the meaning of the occasion.**
+### What competitors do poorly
 
-### Experience Model
+TBD
 
-```text
-Occasion
-   ↓
-Meaning
-   ↓
-Curated Products
-   ↓
-Personalization
-   ↓
-Premium Presentation
-   ↓
-Unboxing
-   ↓
-Emotional Memory
+### What customers appear to value
+
+TBD
+
+### Where LAXEE can differentiate
+
+TBD
+
+---
+
+## Final Competitor Analysis
+
+**Direct Competitors Identified:** TBD
+
+**Indirect Competitors Identified:** TBD
+
+**Major Market Strengths:** TBD
+
+**Major Market Weaknesses:** TBD
+
+**LAXEE Differentiation Opportunity:** TBD
+
+**Status:** IN PROGRESS
+
+---
+
+## Next Step
+
+Supplier & Sourcing Research
