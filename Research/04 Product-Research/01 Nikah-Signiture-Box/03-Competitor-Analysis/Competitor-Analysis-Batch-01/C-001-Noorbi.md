@@ -1,4 +1,4 @@
-# 03 — Competitor Deep Dive
+
 
 # C-001 — Noorbi
 
