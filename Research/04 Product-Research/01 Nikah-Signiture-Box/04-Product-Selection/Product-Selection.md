@@ -539,7 +539,7 @@ Product scoring is used to objectively compare candidates that passed the initia
 
 Scoring does not automatically approve a product.
 
-### Scoring Criteria
+## 05.1 Scoring Criteria
 
 | Criterion | Weight |
 |---|---:|
@@ -551,7 +551,7 @@ Scoring does not automatically approve a product.
 | Feasibility | 10% |
 | **Total** | **100%** |
 
-### Scoring Scale
+## 05.2 Scoring Scale
 
 | Score | Meaning |
 |---:|---|
@@ -561,7 +561,7 @@ Scoring does not automatically approve a product.
 | 4 | Strong |
 | 5 | Exceptional |
 
-### Weighted Score Formula
+## 05.3 Weighted Score Formula
 
 Final Score =
 (Nikah Fit × 20%)
@@ -571,7 +571,7 @@ Final Score =
 + (Box Fit × 15%)
 + (Feasibility × 10%)
 
-### Score Interpretation
+## 05.4 Score Interpretation
 
 | Score Range | Interpretation |
 |---:|---|
@@ -585,27 +585,27 @@ Final Score =
 
 ---
 
-## Scoring Table
+### 05.4 Scoring Results
 
-| ID | Product | Nikah | Emotional | Premium | LAXEE | Box Fit | Feasibility | Final Score | Rank |
+| ID | Product | Nikah Fit | Emotional Value | Premium Perception | LAXEE Fit | Box Fit | Feasibility | Final Score | Rank |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| P-001 | Premium Perfume | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-002 | Premium Quran | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-003 | Signature Couple Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-004 | Premium Attar | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-006 | Elegant Tasbih | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-007 | Nikah Dua Card | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-010 | Islamic Calligraphy | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-011 | Personalized Couple Letter | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-013 | Personalized Couple Journal | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-014 | Custom Couple Artwork | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-015 | Wedding Date Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-020 | Premium Chocolate | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-021 | Egyptian Premium Chocolate | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-022 | Premium Dates | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-029 | Engraved Couple Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-033 | Custom Calligraphy Keepsake | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-034 | Personalized Reveal Card | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-035 | Hidden Message | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-036 | Product Story Cards | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| P-037 | Special Opening Mechanism | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| P-001 | Premium Perfume | 5 | 4 | 5 | 5 | 5 | 4 | **4.70** | 14 |
+| P-002 | Premium Quran | 5 | 5 | 5 | 5 | 4 | 4 | **4.75** | 10 |
+| P-003 | Signature Couple Keepsake | 5 | 5 | 5 | 5 | 5 | 3 | **4.80** | 3 |
+| P-004 | Premium Attar | 5 | 4 | 5 | 5 | 5 | 4 | **4.70** | 14 |
+| P-006 | Elegant Tasbih | 5 | 4 | 4 | 5 | 5 | 5 | **4.60** | 16 |
+| P-007 | Nikah Dua Card | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
+| P-010 | Islamic Calligraphy | 5 | 5 | 5 | 5 | 4 | 4 | **4.75** | 10 |
+| P-011 | Personalized Couple Letter | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
+| P-013 | Personalized Couple Journal | 5 | 5 | 4 | 5 | 4 | 4 | **4.55** | 18 |
+| P-014 | Custom Couple Artwork | 5 | 5 | 5 | 5 | 4 | 4 | **4.75** | 10 |
+| P-015 | Wedding Date Keepsake | 5 | 5 | 5 | 5 | 5 | 4 | **4.90** | 1 |
+| P-020 | Premium Chocolate | 4 | 4 | 5 | 4 | 5 | 5 | **4.45** | 19 |
+| P-021 | Egyptian Premium Chocolate | 4 | 4 | 5 | 5 | 4 | 3 | **4.25** | 20 |
+| P-022 | Premium Dates | 5 | 4 | 5 | 5 | 5 | 5 | **4.80** | 3 |
+| P-029 | Engraved Couple Keepsake | 5 | 5 | 5 | 5 | 5 | 4 | **4.90** | 1 |
+| P-033 | Custom Calligraphy Keepsake | 5 | 5 | 5 | 5 | 4 | 4 | **4.75** | 10 |
+| P-034 | Personalized Reveal Card | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
+| P-035 | Hidden Message | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
+| P-036 | Product Story Cards | 5 | 5 | 4 | 5 | 5 | 5 | **4.80** | 3 |
+| P-037 | Special Opening Mechanism | 4 | 5 | 5 | 5 | 5 | 3 | **4.60** | 16 |
