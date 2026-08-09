@@ -637,3 +637,114 @@ Final Score =
 | 20 | P-021 | Egyptian Premium Chocolate | 4.25 |
 
 Complete product scoring results for Nikah Signature Box
+
+
+
+## 06. Shortlisting
+
+Shortlisting reduces the scored candidate pool to a focused group for deeper Product Research & Validation.
+
+A shortlisted candidate is NOT a finalized product.
+
+It simply means that the candidate has sufficient potential to justify deeper research.
+
+---
+
+### 06.1 Shortlisting Principles
+
+Candidates are shortlisted based on:
+
+1. Strong overall score
+2. Clear relevance to Nikah gifting
+3. Strong emotional or symbolic value
+4. Premium positioning potential
+5. Strong fit within the LAXEE Signature Box
+6. Practical sourcing or development potential
+7. Potential to differentiate the final LAXEE experience
+
+---
+
+### 06.2 Shortlisted Candidates
+
+| ID | Product | Role in Signature Box | Status |
+|---|---|---|---|
+| P-015 | Wedding Date Keepsake | Keepsake / Emotional | SHORTLISTED |
+| P-029 | Engraved Couple Keepsake | Keepsake / Personalization | SHORTLISTED |
+| P-003 | Signature Couple Keepsake | Keepsake / Emotional | SHORTLISTED |
+| P-002 | Premium Quran | Nikah / Islamic | SHORTLISTED |
+| P-010 | Islamic Calligraphy | Nikah / Islamic / Decorative | SHORTLISTED |
+| P-001 | Premium Perfume | Personal Luxury | SHORTLISTED |
+| P-004 | Premium Attar | Personal Luxury / Islamic | SHORTLISTED |
+| P-022 | Premium Dates | Gourmet / Traditional | SHORTLISTED |
+| P-020 | Premium Chocolate | Gourmet / Consumable | SHORTLISTED |
+| P-013 | Personalized Couple Journal | Keepsake / Emotional | SHORTLISTED |
+| P-014 | Custom Couple Artwork | Keepsake / Personalization | SHORTLISTED |
+| P-007 | Nikah Dua Card | Nikah / Islamic Element | SHORTLISTED |
+
+---
+
+### 06.3 Experience & Presentation Candidates
+
+The following candidates are treated separately because they are not necessarily standalone products.
+
+They may become supporting elements of the final Signature Box.
+
+| ID | Element | Role | Status |
+|---|---|---|---|
+| P-034 | Personalized Reveal Card | Experience | SUPPORTING |
+| P-035 | Hidden Message | Experience | SUPPORTING |
+| P-036 | Product Story Cards | Experience / Storytelling | SUPPORTING |
+| P-037 | Special Opening Mechanism | Presentation / Experience | SUPPORTING |
+| P-033 | Custom Calligraphy Keepsake | Personalization / Keepsake | SUPPORTING |
+
+---
+
+### 06.4 Not Shortlisted
+
+These candidates will not enter the immediate deep-research pool.
+
+| ID | Product | Final Score | Status |
+|---|---|---:|---|
+| P-006 | Elegant Tasbih | 4.60 | HOLD |
+| P-021 | Egyptian Premium Chocolate | 4.25 | HOLD |
+
+They may be reconsidered if later research identifies a specific strategic need.
+
+---
+
+### 06.5 Shortlist Objective
+
+The shortlisted candidates will now be investigated through deeper research.
+
+Research will determine:
+
+- Actual market demand
+- Available quality levels
+- Market pricing
+- Competitor offerings
+- Customer expectations
+- Supplier availability
+- Customization possibilities
+- Packaging requirements
+- Margin potential
+- Differentiation opportunities
+
+---
+
+### 06.6 Decision Rule
+
+No shortlisted candidate becomes a final LAXEE product at this stage.
+
+The candidate must pass:
+
+**Product Research → Competitor Analysis → Supplier Research → Pricing → Validation**
+
+before final approval.
+
+---
+
+### 06.7 Status
+
+**Shortlisting:** COMPLETED
+
+**Next Step:** 07 — Product Research & Validation
