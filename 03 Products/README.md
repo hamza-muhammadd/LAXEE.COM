@@ -1,36 +1,65 @@
-# LAXEE Products
+# LAXEE — Product System
 
-This section contains all products and collections developed by LAXEE.
+**Status:** Active
 
-## Collections
+## Purpose
 
-### Nikah
-Products designed for Nikah and wedding gifting.
+This section is the single source of truth for what LAXEE creates, sells, validates, improves, and retires.
 
-### Birthday
-Curated gifts for birthdays.
+## Product Hierarchy
 
-### Anniversary
-Gifts for anniversaries and relationship milestones.
+```text
+LAXEE
+  ↓
+Category
+  ↓
+Collection
+  ↓
+Product Family
+  ↓
+Tier / Product
+  ↓
+Variant / SKU
+```
 
-### Corporate
-Premium gifts for companies, clients and employees.
+## Current Architecture
 
-### Chocolate
-Curated chocolate collections and gift sets.
+```text
+Collections/
+└── Nikah/
+    ├── Signature/
+    ├── Premium/
+    └── Prestige/
+```
 
-## Product Tiers
+Other future occasions such as Birthday, Anniversary, Corporate, and Chocolate should be added only when they have a validated strategic reason to exist.
 
-- Elite
-- Premium
-- Prestige
+## Product Lifecycle
 
-## Product Status
+`Concept → Research → Development → Prototype → Validated → Production → Active → Retired`
 
-- Idea
-- Research
-- Development
-- Prototype
-- Approved
-- Active
-- Archived
+## Product Definition Standard
+
+A production-ready product should define:
+
+- Purpose
+- Occasion
+- Recipient
+- Positioning
+- Contents
+- Materials
+- Dimensions
+- Quality standards
+- Costing
+- Pricing
+- Packaging
+- Personalization
+- Supplier requirements
+- Production requirements
+- Customer experience
+- Validation evidence
+- Current status
+
+## Rule
+
+Product research belongs in `02 Research/Product`. Product strategy belongs in `01 Brand/Strategy`. This folder owns the actual product definition and lifecycle.
