@@ -1,226 +1,54 @@
-# LAXEE Nikah Premium Box
+# NIK-PRE-001 — Nikah Premium
 
-## Product Overview
+**Status:** FUTURE CONCEPT
+**Authority:** Concept only. Not approved for development or launch.
 
-A refined and thoughtfully curated gift box designed for Nikah occasions.
+## Role
 
-The Premium Box represents LAXEE's elevated gifting experience, combining
-meaningful products with sophisticated presentation.
+Premium is the second stage of the Nikah architecture:
 
----
+`Signature → Premium → Prestige`
 
-## Product Code
+It should only enter active development after Nikah Signature has sufficient evidence, customer learning, commercial viability, and operational stability.
 
-NIK-PRE-001
+## Working Direction
 
-## Collection
+Premium should represent a more elevated gifting experience through better curation, materials, personalization, presentation, service, or other meaningful value—not simply more products.
 
-Nikah
+## Contents
 
-## Tier
-
-Premium
-
-## Status
-
-Idea
-
----
-
-## Target Customer
-
-Customers looking for a premium, elegant, and meaningful Nikah gift
-without entering the highest Prestige tier.
-
----
-
-## Product Concept
-
-The Nikah Premium Box should feel intentional, refined, and memorable.
-
-Every item should contribute to the overall gifting experience rather than
-simply increasing the number of products inside the box.
-
----
-
-## Product Contents
-
-### Core Items
-
-To be finalized.
-
-### Optional Items
-
-To be finalized.
-
-### Personalized Items
-
-To be finalized.
-
----
-
-## Curation Principle
-
-The final product should maintain a balance between:
-
-- Meaning
-- Beauty
-- Utility
-- Quality
-- Presentation
-- Emotional value
-
----
+Not defined.
 
 ## Packaging
 
-### Box Type
-
-To be finalized.
-
-### Primary Material
-
-To be finalized.
-
-### Interior
-
-To be finalized.
-
-### Exterior
-
-To be finalized.
-
-### Finishing
-
-To be finalized.
-
----
+Not defined. Packaging work belongs in `04 Packaging`.
 
 ## Personalization
 
-Potential options:
+Potential options are exploratory only and require validation.
 
-- Couple's names
-- Nikah date
-- Personalized card
-- Custom message
-- Custom packaging
-- Monogram
+## Economics
 
-Final options to be determined.
-
----
+Not defined.
 
 ## Supplier
 
-To be finalized.
+Not defined.
 
-## Supplier Country
+## Development
 
-To be finalized.
+- Research: Existing Nikah research may inform future development.
+- Concept: Recorded.
+- Active development: **No**.
+- Prototype: Not started.
+- Validation: Not started.
+- Approval: Not approved.
+- Launch: Not launched.
 
-## Estimated Product Cost
+## Gate to Activate
 
-To be finalized.
+Premium may move into active development only when Signature has produced enough evidence to justify expansion.
 
-## Packaging Cost
+## Principle
 
-To be finalized.
-
-## Total Estimated Cost
-
-To be finalized.
-
-## Selling Price
-
-To be finalized.
-
-## Expected Gross Margin
-
-To be finalized.
-
----
-
-## Prototype
-
-### Prototype Status
-
-Not Started
-
-### Prototype Version
-
-V0.1
-
-### Prototype Notes
-
-To be documented after the first physical prototype is created.
-
----
-
-## Photography
-
-### Photography Status
-
-Not Started
-
-### Required Assets
-
-- Front product photograph
-- Open-box photograph
-- Detail photographs
-- Lifestyle photograph
-- Packaging photograph
-
----
-
-## Launch
-
-### Launch Status
-
-Not Launched
-
-### Target Launch Date
-
-To be determined.
-
----
-
-## Quality Checklist
-
-Before approval, verify:
-
-- [ ] Product quality
-- [ ] Packaging quality
-- [ ] Visual consistency
-- [ ] Brand presentation
-- [ ] Product durability
-- [ ] Personalization quality
-- [ ] Supplier reliability
-- [ ] Cost viability
-- [ ] Profit margin
-- [ ] Customer experience
-
----
-
-## Product Approval
-
-**Designed by:** To be assigned
-
-**Reviewed by:** To be assigned
-
-**Approved by:** To be assigned
-
-**Approval Date:** To be determined
-
----
-
-## Notes
-
-This product is currently at the concept stage.
-
-All contents, suppliers, pricing, packaging, and specifications are subject
-to change during product development.
-
----
-
-_Last Updated: August 2026_
+> Do not add complexity until the first system works.
