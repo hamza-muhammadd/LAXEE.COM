@@ -4,60 +4,114 @@
 
 LAXEE is building a premium gifting house focused on thoughtful curation, refined presentation, personal expression, and meaningful experiences.
 
-This repository is the working knowledge base for LAXEE — the place where brand principles, research, products, packaging, suppliers, website work, and operating decisions are documented.
+This repository is LAXEE's **operating system and institutional memory**. It separates direction, evidence, decisions, products, experience, execution, growth, commercial control, people, and projects so that the company can grow without information becoming mixed together.
+
+## The LAXEE Operating System
+
+```text
+00 Company
+    ↓
+01 Brand
+    ↓
+02 Research
+    ↓
+Insights / Decisions
+    ↓
+03 Products + 04 Packaging
+    ↓
+06 Customer Experience + 07 Website
+    ↓
+08 Operations + 05 Supply Chain
+    ↓
+09 Growth + 10 Finance
+    ↓
+11 People + 12 Projects
+    ↓
+Measure → Learn → Improve
+```
 
 ## Repository Map
 
 | Section | Purpose |
 |---|---|
-| `00 Company` | Direction, goals, roadmap, and important decisions |
-| `01 Brand` | Brand foundation, strategy, identity, voice, and guidelines |
-| `02 Packaging` | Packaging concepts, specifications, materials, and production |
-| `03 Products` | Product architecture and product families |
-| `Research` | Market, customer, competitor, and category evidence |
-| `Suppliers` | Supplier discovery, evaluation, and relationships |
-| `Website` | Website strategy, content, UX, design, and development |
-| `99 Archive` | Deprecated or superseded material |
+| `00 Company` | Vision, mission, goals, roadmap, principles, decisions, operating system |
+| `01 Brand` | Brand foundation, strategy, identity, voice, guidelines |
+| `02 Research` | Evidence, market/customer/competitor/product research, insights |
+| `03 Products` | Product strategy, architecture, specifications, lifecycle |
+| `04 Packaging` | Packaging strategy, structure, materials, production, quality, experience |
+| `05 Supply Chain` | Sourcing, suppliers, manufacturing, logistics, quality |
+| `06 Customer Experience` | Customer journey, personalization, delivery, unboxing, service, feedback |
+| `07 Website & Digital` | Digital strategy, UX, UI, content, development, SEO, analytics |
+| `08 Operations` | SOPs, orders, fulfillment, inventory, quality, customer service |
+| `09 Growth` | Marketing, content, campaigns, partnerships, CRM, analytics |
+| `10 Finance & Commercial` | Unit economics, pricing, costs, revenue, budgets, commercial planning |
+| `11 People & Governance` | Roles, accountability, hiring, meetings, decision rights, culture |
+| `12 Projects` | Temporary initiatives with owners, scope, milestones, and outcomes |
+| `99 Archive` | Superseded, rejected, deprecated, and historical material |
 
-## How to Use This Repository
+## The Golden Rule
 
-### Knowledge
+Every piece of information must have **one clear home**.
 
-Document what LAXEE knows:
+- **Research** = what we observe and learn.
+- **Insight** = what the evidence means.
+- **Decision** = what LAXEE chooses.
+- **Strategy** = how LAXEE intends to compete.
+- **Product** = what we create and sell.
+- **Operations** = how we repeatedly deliver it.
+- **Project** = temporary work required to change or build something.
+- **Archive** = no longer current.
 
-- Research
-- Brand principles
-- Product specifications
-- Supplier information
+Do not create duplicate documents when an authoritative document already exists.
 
-### Decisions
+## Status Language
 
-Document what LAXEE has decided:
+Use only these document states unless a more specific lifecycle is required:
 
-- Strategic direction
-- Positioning
-- Product decisions
-- Major operating decisions
+`Draft → In Review → Approved → Active → Superseded → Archived`
 
-### Execution
+## Research-to-Execution Loop
 
-Document what LAXEE is building or implementing:
+```text
+Question
+  ↓
+Research
+  ↓
+Evidence
+  ↓
+Insight
+  ↓
+Hypothesis
+  ↓
+Validation
+  ↓
+Decision
+  ↓
+Strategy / Product / Operations
+  ↓
+Execution
+  ↓
+Measurement
+  ↓
+Learning
+```
 
-- Products
-- Packaging
-- Website
-- Operations
+## Important Rule About Legacy Material
 
-### Archive
+Older folders may contain useful historical thinking, but they are **not automatically current truth**. Legacy material is being consolidated into the numbered operating system. Do not add new work to legacy folders.
 
-Move outdated material to `99 Archive` rather than deleting important history.
+## Current Priority
 
-## Source of Truth
+The current company sequence is:
 
-When two documents conflict, prefer the more specific and more recently approved document. Important strategic decisions should be recorded in `00 Company/Key-Decisions.md`.
+1. Establish the operating system.
+2. Consolidate and validate brand strategy.
+3. Consolidate research into an evidence system.
+4. Develop and validate the Nikah product system.
+5. Build packaging and supply-chain readiness.
+6. Build customer experience and digital commerce.
+7. Establish operations and launch readiness.
+8. Measure, learn, and improve.
 
-## Status
-
-**Stage:** Foundation → Strategy → Product Development
-
-**Repository principle:** Build the brand deliberately. Document decisions clearly. Keep the system simple enough to maintain.
+**Repository status:** Active rebuild  
+**Operating-system version:** 1.0
