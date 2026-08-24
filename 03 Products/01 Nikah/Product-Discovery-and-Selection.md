@@ -1,16 +1,26 @@
 # NIKAH-001 — Product Discovery & Selection
 
-**Status:** Working research handoff  
-**Source:** Original product-selection research
+**Status:** ACTIVE WORKING DOCUMENT
+**Source:** Consolidated from original LAXEE product-selection research
 
 ## Purpose
 
-Determine which components deserve deeper product development.
+Identify candidate components that deserve deeper development for the Nikah collection.
 
-## Product-Role Framework
+This is a **candidate-selection document**, not the final product specification.
+
+## Core Principle
+
+> **Every component must have a reason to exist.**
+
+A component should contribute meaning, emotional value, premium perception, delight, memory, experience, or presentation. More items do not automatically create more value.
+
+## Product Roles
+
+These are design roles, not required quantities:
 
 1. Hero Product
-2. Nikah / Islamic Element
+2. Nikah / Islamic Meaning
 3. Couple / Emotional Element
 4. Personal Luxury
 5. Gourmet / Consumable
@@ -18,36 +28,40 @@ Determine which components deserve deeper product development.
 7. Experience Element
 8. Presentation Element
 
-These are **roles, not required quantities**.
+A successful product may use several roles through fewer, better components.
 
-## Selection Principle
+## Candidate Screening
 
-> **Every component must have a reason to exist.**
+Every candidate should be assessed against:
 
-A candidate should contribute meaning, emotion, premium perception, delight, memory, experience, or presentation.
-
-## Screening Dimensions
-
-Evaluate candidates on:
-
-- Nikah fit
+- Nikah relevance
 - Emotional value
-- Premium feel
-- LAXEE fit
-- Box fit
-- Feasibility
-- Sourcing
-- Cost viability
-- Differentiation
+- Premium perception
+- LAXEE brand fit
+- Coherence with the overall box
 - Customer appeal
+- Differentiation
+- Sourcing feasibility
+- Quality feasibility
+- Customization feasibility
+- MOQ / operational feasibility
+- Cost viability
+- Margin potential
+- Packaging fit
+- Recipient usefulness
 
-## Decision Labels
+## Candidate Status
 
-- **KEEP** — deserves deeper research.
-- **MAYBE** — retain as secondary candidate.
-- **REJECT** — remove from the current concept.
+Use only these labels:
 
-KEEP does not mean approved.
+- **DISCOVERED** — found during research; no judgement yet.
+- **KEEP FOR TESTING** — deserves deeper investigation.
+- **MAYBE** — possible secondary candidate.
+- **REJECTED** — not suitable for the current concept.
+- **VALIDATED** — evidence supports further product development.
+- **APPROVED** — included in an approved Product Specification.
+
+**Important:** An old `KEEP` judgement from the original research is not customer validation and does not mean approved.
 
 ## Candidate Families
 
@@ -55,7 +69,7 @@ KEEP does not mean approved.
 
 Premium fragrance, premium Islamic product, signature couple keepsake.
 
-### Islamic / Nikah
+### Nikah / Islamic
 
 Premium Quran, tasbih, dua card, Islamic book, calligraphy, Nikah keepsake.
 
@@ -83,16 +97,14 @@ Reveal card, hidden message, story cards, sequential cards, opening mechanism.
 
 Signature box, inner tray, tissue, ribbon, cards, inserts, closure.
 
-## Important Research Correction
+## Development Gate
 
-The original research contains many candidate products and preliminary KEEP/MAYBE judgments. Those judgments were founder hypotheses, not validated customer evidence.
+No candidate becomes a final product component without passing:
 
-Therefore **no candidate should be treated as final solely because the old research marked it KEEP**.
-
-## Product Development Gate
-
-`Candidate → Evidence → Supplier Check → Sample → Quality Check → Costing → Customer/Concept Validation → Approval`
+`Candidate → Evidence → Supplier Check → Sample → Quality → Costing → Customer / Concept Validation → Product Decision → Approved Specification`
 
 ## Current Decision
 
-**Proceed to deeper product development, but do not freeze the final contents yet.**
+**Proceed to deeper Signature development. Do not freeze final contents yet.**
+
+The next authority is the final Product Specification, once the candidate set, suppliers, samples, costing, and validation are complete.
