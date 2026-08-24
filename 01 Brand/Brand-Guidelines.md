@@ -1,357 +1,280 @@
 # LAXEE — Brand Guidelines
 
-## 01 — Brand Identity
+**Status:** ACTIVE FOUNDATION
+**Owner:** LAXEE
+**Version:** 2.0
 
-### Brand Name
+## Purpose
 
-**L A X E É**
+This document is the practical expression layer of the approved LAXEE brand foundation. It tells anyone working on LAXEE how the brand should look, sound, and feel.
 
-Always use the official brand styling when presenting the primary
-brand identity.
-
-### Motto
-
-**Quiet Opulence**
+It does **not** replace Brand Foundation or Brand Strategy.
 
 ---
 
-# 02 — Brand Essence
+# 1. Brand Core
 
-LAXEE is built around the idea that luxury does not need to be loud.
+**Motto:** Quiet Opulence
 
-We believe premium gifting should feel:
+LAXEE should feel refined, intentional, personal, modern, thoughtful, and premium.
 
-- Intentional
-- Refined
-- Personal
-- Beautiful
-- Memorable
-
-LAXEE transforms ordinary gifting into a considered experience.
+The brand should never depend on loudness, excessive decoration, or artificial signals of luxury.
 
 ---
 
-# 03 — Brand Positioning
+# 2. Brand Character
 
-LAXEE is a premium gifting brand focused on curated products,
-elevated presentation, and meaningful occasions.
+### Quiet
 
-### We compete on:
+Confident without shouting.
 
-- Curation
-- Presentation
-- Experience
-- Personalization
-- Quality
+### Refined
 
-### We do not compete primarily on:
+Elegant without excess.
 
-- Lowest price
-- Maximum quantity
-- Mass-market selection
+### Intentional
 
----
+Every meaningful detail has a reason.
 
-# 04 — Brand Personality
+### Modern
 
-LAXEE should feel:
+Contemporary, disciplined, and culturally aware.
 
-**Quiet**  
-Confident without being loud.
+### Thoughtful
 
-**Refined**  
-Elegant without being excessive.
+Focused on the meaning behind giving.
 
-**Intentional**  
-Every detail has a reason.
+### Premium
 
-**Modern**  
-Contemporary and visually disciplined.
-
-**Thoughtful**  
-Focused on the meaning behind the gift.
-
-**Premium**  
-High perceived value supported by real quality.
+Premium because of real quality and experience, not because of price alone.
 
 ---
 
-# 05 — Visual Direction
+# 3. Visual Direction
 
-The visual identity should communicate:
+**Core visual idea:** Quiet luxury + modern minimalism + emotional sophistication.
 
-> Quiet luxury + modern minimalism + emotional sophistication
+Prefer:
 
-### Visual Characteristics
-
-- Clean compositions
-- Generous whitespace
-- Refined typography
-- Controlled use of color
-- Premium materials
-- Subtle details
-- Strong photography
-- Minimal visual noise
-
----
-
-# 06 — What LAXEE Should NOT Look Like
+- clean compositions
+- generous whitespace
+- refined typography
+- controlled color
+- tactile materials
+- subtle details
+- strong product photography
+- real gifting moments
+- disciplined hierarchy
 
 Avoid:
 
-- Excessive decoration
-- Too many colors
-- Cheap-looking gradients
-- Overly bright visuals
-- Generic gift-shop aesthetics
-- Excessive typography
-- Visual clutter
-- Unnecessary icons
-- Overuse of gold
-- Artificial-looking luxury
+- visual clutter
+- excessive decoration
+- overly bright palettes
+- generic gift-shop aesthetics
+- excessive gold
+- cheap gradients
+- artificial luxury cues
+- unnecessary icons and effects
 
-Luxury should come from restraint and execution.
+**Rule:** Luxury should come from restraint, material quality, proportion, and execution.
 
 ---
 
-# 07 — Logo Usage
+# 4. Logo
 
-The official LAXEE logo should be treated as a primary brand asset.
+Use only approved logo assets when they become available.
 
 ### Do
 
-- Maintain clear space around the logo.
-- Use approved logo variations.
-- Preserve original proportions.
-- Use high-resolution files.
+- Preserve proportions.
+- Maintain clear space.
+- Use approved variations.
 - Ensure sufficient contrast.
+- Use appropriate resolution.
 
-### Do Not
+### Do not
 
-- Stretch the logo.
-- Compress the logo.
-- Rotate the logo.
-- Add unnecessary effects.
-- Change letter spacing manually.
-- Apply random colors.
-- Place the logo on visually noisy backgrounds.
+- stretch
+- compress
+- rotate
+- distort
+- add effects
+- manually alter letter spacing
+- use unapproved colors
 
----
-
-# 08 — Logo Variations
-
-Approved logo variations may include:
-
-### Primary Logo
-
-Used for major brand applications.
-
-### Monogram / Symbol
-
-Used for:
-
-- Packaging details
-- Social media profile
-- Favicon
-- Small-format applications
-
-### Wordmark
-
-Used where a clean typographic presentation is preferred.
-
-Final approved versions will be documented separately.
+Final logo files should be stored with the official brand assets, not recreated inside random documents.
 
 ---
 
-# 09 — Color Philosophy
+# 5. Color
 
-LAXEE's color system should remain restrained and sophisticated.
+The LAXEE color system must be restrained and sophisticated.
 
-Primary colors should communicate:
+The exact production values should be maintained in the future authoritative color specification rather than repeated across documents.
 
-- Warmth
-- Elegance
-- Calmness
-- Premium quality
+When a color system is formally approved, record:
 
-The exact HEX, RGB, CMYK, and Pantone values are documented in:
+- HEX
+- RGB
+- CMYK
+- Pantone where relevant
+- digital usage
+- print usage
+- accessibility considerations
 
-`Colors.md`
-
----
-
-# 10 — Typography Philosophy
-
-Typography should feel:
-
-- Elegant
-- Modern
-- Readable
-- Sophisticated
-- Spacious
-
-Typography specifications are documented in:
-
-`Typography.md`
+Until formally approved, do not invent additional brand colors.
 
 ---
 
-# 11 — Photography Direction
+# 6. Typography
 
-LAXEE photography should focus on:
+Typography should communicate elegance, modernity, clarity, and space.
 
-- Product detail
-- Material quality
-- Texture
-- Packaging
-- Light
-- Composition
-- Human emotion
-- Real-world gifting moments
+The final typography system should specify:
 
-### Preferred Photography
+- primary typeface
+- secondary typeface if required
+- display hierarchy
+- body hierarchy
+- digital usage
+- print usage
+- spacing
+- capitalization
 
-- Natural or controlled soft lighting
-- Clean backgrounds
-- Subtle shadows
-- Strong composition
-- Authentic materials
-- Premium close-up details
-
-### Avoid
-
-- Heavy filters
-- Excessive saturation
-- Distracting backgrounds
-- Poor lighting
-- Low-resolution images
-- Generic stock-photo aesthetics
+Until formally approved, avoid treating placeholder font choices as final brand rules.
 
 ---
 
-# 12 — Packaging Direction
+# 7. Photography
 
-Packaging is part of the product experience.
+Photography should show:
+
+- product detail
+- material quality
+- texture
+- packaging
+- light
+- composition
+- human emotion
+- real gifting moments
+
+Prefer:
+
+- soft controlled light
+- authentic materials
+- clean backgrounds
+- subtle shadows
+- intentional composition
+- premium close-ups
+
+Avoid:
+
+- heavy filters
+- excessive saturation
+- distracting backgrounds
+- poor lighting
+- low-resolution imagery
+- generic stock-photo aesthetics
+
+---
+
+# 8. Packaging Expression
+
+Packaging is part of the LAXEE experience.
 
 It should communicate:
 
 > The gift begins before the box is opened.
 
-Packaging should prioritize:
+Prioritize:
 
-- Material quality
-- Structural quality
-- Tactile experience
-- Opening sequence
-- Typography
-- Color consistency
-- Brand recognition
-- Protection of contents
+- material quality
+- structural quality
+- tactile experience
+- opening sequence
+- typography
+- color consistency
+- brand recognition
+- protection
 
----
-
-# 13 — Digital Experience
-
-LAXEE's website and digital platforms should maintain the same visual
-language as the physical brand.
-
-Digital interfaces should prioritize:
-
-- Minimal layouts
-- Clear hierarchy
-- Generous whitespace
-- Elegant typography
-- High-quality photography
-- Smooth interactions
-- Fast performance
-- Mobile-first usability
+Packaging decisions belong to `04 Packaging`; this section only defines the brand expression they must follow.
 
 ---
 
-# 14 — Brand Voice
+# 9. Digital Expression
+
+The website and digital products should feel like the same brand as the physical experience.
+
+Prioritize:
+
+- clear hierarchy
+- whitespace
+- elegant typography
+- high-quality photography
+- restrained motion
+- fast performance
+- mobile-first usability
+- confidence and clarity
+
+Digital implementation belongs to `07 Website & Digital`.
+
+---
+
+# 10. Voice
 
 LAXEE communicates with confidence and restraint.
 
-The language should feel:
+Use language that is:
 
-- Clear
-- Elegant
-- Concise
-- Thoughtful
-- Human
+- clear
+- elegant
+- concise
+- thoughtful
+- human
 
 Avoid:
 
-- Excessive emojis
-- Aggressive sales language
-- Cheap promotional language
-- Excessive exclamation marks
-- Overused luxury clichés
+- aggressive sales language
+- excessive exclamation marks
+- cheap promotional language
+- generic luxury clichés
+- unnecessary emojis
+- exaggerated claims
 
-Detailed communication rules are documented in:
-
-`Brand-Voice.md`
-
----
-
-# 15 — Tagline System
-
-Primary:
-
-> Quiet Opulence
-
-Supporting brand lines may be developed separately.
-
-See:
-
-`Taglines.md`
+Detailed verbal rules belong to `04 Voice/Brand-Voice.md`.
 
 ---
 
-# 16 — Brand Experience Principle
+# 11. Customer Experience Expression
 
-Every customer interaction should reinforce the same feeling.
+Every touchpoint should reinforce the same emotional progression:
 
-### Before Purchase
+```text
+Discovery → Trust → Confidence → Anticipation → Delight → Memory
+```
 
-Curiosity and trust.
-
-### During Purchase
-
-Confidence and ease.
-
-### During Delivery
-
-Anticipation.
-
-### During Unboxing
-
-Discovery and delight.
-
-### After Gifting
-
-Memory and emotional value.
+The complete customer journey belongs to `06 Customer Experience`.
 
 ---
 
-# 17 — Brand Decision Filter
+# 12. Brand Decision Filter
 
-Before approving any visual, product, campaign, or packaging concept,
-ask:
+Before approving a visual, product expression, campaign, packaging concept, or customer-facing communication, ask:
 
 1. Does it feel like LAXEE?
 2. Is it refined?
 3. Is it intentional?
-4. Does it feel premium?
-5. Is there unnecessary visual noise?
+4. Is the premium feeling supported by real quality?
+5. Is there unnecessary visual or verbal noise?
 6. Does it improve the customer experience?
 7. Does it support Quiet Opulence?
 
-If the answer is no, reconsider the concept.
+If not, revise or reject it.
 
 ---
 
-# 18 — Brand Principle
+# 13. Non-Negotiable Principle
 
 > Quiet does not mean invisible.
 >
@@ -359,16 +282,20 @@ If the answer is no, reconsider the concept.
 >
 > Premium does not mean expensive-looking.
 >
-> Every detail should have a reason.
+> Every meaningful detail should have a reason.
 
 ---
 
-## Document Status
+# 14. Authority
 
-**Version:** 1.0
+For conflicts, use this order:
 
-**Status:** Foundation
+`Company → Brand Foundation → Brand Strategy → Brand Guidelines → Execution`
 
-**Owner:** LAXEE
+If an execution conflicts with the higher-level system, the execution changes.
 
+---
+
+**Status:** ACTIVE FOUNDATION
+**Version:** 2.0
 **Last Updated:** August 2026
