@@ -1,17 +1,12 @@
 # LAXEE — Product System
 
-**Status:** Active
+**Status:** ACTIVE
+**Purpose:** Single source of truth for what LAXEE builds, validates, sells, improves, and retires.
 
-## Purpose
-
-This section is the single source of truth for what LAXEE creates, sells, validates, improves, and retires.
-
-## Product Hierarchy
+## Product Architecture
 
 ```text
 LAXEE
-  ↓
-Category
   ↓
 Collection
   ↓
@@ -22,44 +17,90 @@ Tier / Product
 Variant / SKU
 ```
 
-## Current Architecture
+## Current Product Focus
 
 ```text
 Collections/
 └── Nikah/
-    ├── Signature/
-    ├── Premium/
-    └── Prestige/
+    ├── Signature  ← CURRENT DEVELOPMENT
+    ├── Premium    ← AFTER SIGNATURE VALIDATION
+    └── Prestige   ← FUTURE / LIMITED
 ```
 
-Other future occasions such as Birthday, Anniversary, Corporate, and Chocolate should be added only when they have a validated strategic reason to exist.
+Do not create additional collections or tiers merely because they sound attractive. A new product family requires a strategic reason, evidence, commercial logic, and an owner.
 
 ## Product Lifecycle
 
-`Concept → Research → Development → Prototype → Validated → Production → Active → Retired`
+`Concept → Research → Development → Prototype → Validation → Approved → Production → Active → Improve → Retired`
+
+## Product Truth Hierarchy
+
+When documents conflict, use this order:
+
+1. Approved Product Specification
+2. Approved Product Decision
+3. Validated Research / Insight
+4. Working Hypothesis
+5. Old / Archived Material
+
+Never use old research to override an approved current product specification.
 
 ## Product Definition Standard
 
-A production-ready product should define:
+A production-ready product must define:
 
 - Purpose
 - Occasion
 - Recipient
+- Customer problem / job
 - Positioning
 - Contents
 - Materials
 - Dimensions
-- Quality standards
-- Costing
-- Pricing
+- Quality standard
+- Unit economics
+- Price
 - Packaging
 - Personalization
 - Supplier requirements
 - Production requirements
 - Customer experience
 - Validation evidence
-- Current status
+- Status
+- Owner
 
-## Rule
+## Product Development Gate
 
-Product research belongs in `02 Research/Product`. Product strategy belongs in `01 Brand/Strategy`. This folder owns the actual product definition and lifecycle.
+```text
+Candidate
+   ↓
+Evidence
+   ↓
+Supplier / Feasibility Check
+   ↓
+Sample
+   ↓
+Quality Check
+   ↓
+Costing
+   ↓
+Customer / Concept Validation
+   ↓
+Product Decision
+   ↓
+Approved Specification
+   ↓
+Production
+```
+
+## Research vs Product
+
+Research answers **what we know**.
+
+Product documents answer **what we are choosing to build**.
+
+Do not duplicate raw research inside Product files. Link back to the relevant Research or Insight instead.
+
+## Current Status
+
+Nikah is the active product-development priority. Signature is the first tier to validate. Premium and Prestige remain concepts until the Signature proposition, economics, customer response, and operational feasibility justify progression.
