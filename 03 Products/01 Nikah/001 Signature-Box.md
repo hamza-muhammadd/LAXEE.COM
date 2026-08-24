@@ -1,75 +1,91 @@
-# LAXEE Nikah Signature Box
+# NIK-SIG-001 — Nikah Signature
 
-## Product Overview
+**Status:** CONCEPT / DEVELOPMENT
+**Authority:** This document is a working concept only. It is not the final Product Specification.
 
-A thoughtfully curated gift box designed for Nikah occasions.
+## Purpose
 
-## Product Code
+Define the current concept for the first Nikah product LAXEE intends to validate.
 
-NIK-SIG-001
+## Position
 
-## Collection
+Nikah Signature is the **first development priority** within:
 
-Nikah
+`Nikah → Signature → Premium → Prestige`
 
-## Tier
+The proposition is a refined, meaningful, curated Nikah gifting experience built around quality and restraint rather than quantity.
 
-Signature
+## Working Customer
 
-## Status
+People seeking an elegant, meaningful Nikah gift for a couple, bride, groom, family member, close friend, or important guest.
 
-Idea
+This remains a working customer definition and requires validation.
 
-## Target Customer
+## Working Product Principle
 
-Customers looking for an elegant and meaningful Nikah gift.
+Every included element must have a reason to exist.
 
-## Concept
+The product should balance:
 
-A refined selection of carefully chosen items presented in
-LAXEE's signature gifting style.
+- Meaning
+- Emotional value
+- Beauty
+- Utility
+- Quality
+- Personalization
+- Presentation
+- Memory
 
-## Contents
+## Product Contents
 
-To be finalized.
+**Not finalized.**
+
+Candidates must pass the product-selection and validation gates in `Product-Discovery-and-Selection.md`.
 
 ## Packaging
 
-To be finalized.
+**Not finalized.**
+
+Packaging development belongs in `04 Packaging`.
 
 ## Personalization
 
-To be finalized.
+Potential options may include names, Nikah date, message, card, monogram, or other meaningful details. Final options require validation and production feasibility.
 
 ## Supplier
 
-To be finalized.
+**Not approved.**
 
-## Estimated Cost
+Supplier work belongs in `05 Supply Chain/Sourcing`.
 
-To be finalized.
+## Economics
 
-## Selling Price
+- Product cost: TBD
+- Packaging cost: TBD
+- Personalization cost: TBD
+- Fulfilment/logistics: TBD
+- Selling price: TBD
+- Gross margin: TBD
 
-To be finalized.
+No commercial figure in this document should be treated as approved.
 
-## Expected Margin
+## Development Status
 
-To be finalized.
+- Concept: Active
+- Candidate selection: In progress
+- Supplier validation: Pending
+- Prototype: Not started
+- Customer/concept validation: Pending
+- Final specification: Not created
+- Production approval: Not approved
+- Launch: Not launched
 
-## Prototype Status
+## Approval Gate
 
-Not Started
+The product cannot become an approved product until:
 
-## Photography Status
+`Candidate → Supplier → Sample → Quality → Costing → Validation → Decision → Product Specification → Approval`
 
-Not Started
+## Next Action
 
-## Launch Status
-
-Not Launched
-
-## Notes
-
-This product is currently at the concept stage.
-All specifications are subject to change during product development.
+Develop and validate the Signature candidate set before freezing contents, packaging, pricing, or supplier decisions.
