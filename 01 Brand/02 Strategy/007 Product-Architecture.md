@@ -1,61 +1,82 @@
 # LAXEE — Product Architecture
 
-> **Quiet Opulence**
+**Status:** ACTIVE STRATEGIC FRAMEWORK
+**Version:** 2.0
 
-**Document Type:** Brand Strategy  
-**Status:** Strategic Framework — To Be Validated  
-**Version:** 1.0
+## Purpose
 
----
+Product Architecture defines how LAXEE organizes collections, product families, tiers, and future expansion without losing clarity or premium positioning.
 
-# 01. What Is Product Architecture?
+## Core Principle
 
-Product Architecture is the system LAXEE uses to organize its products, collections, gifting experiences, pricing levels, occasions, relationships, and customer needs.
+LAXEE does not compete by offering the largest catalogue.
 
-It answers:
+It creates meaningful gifting experiences through:
 
-- What does LAXEE offer?
-- How are products organized?
-- Why does one gift belong to Elite while another belongs to Premium?
-- What makes Prestige different?
-- How should customers discover products?
-- How should products be grouped into collections?
-- How should LAXEE expand its catalogue without becoming confusing?
-- How can LAXEE maintain a premium identity while offering many different products?
+`Product → Curation → Presentation → Personalization → Emotion → Experience`
 
-Product Architecture is therefore not simply a product list.
-
-It is the **structure behind the LAXEE product ecosystem.**
-
----
-
-# 02. The Core Idea
-
-LAXEE should not think:
-
-> "We sell chocolates, perfumes, clothing, diaries, flowers, and gift boxes."
-
-LAXEE should think:
-
-> "We create meaningful gifting experiences using carefully selected products."
-
-This distinction is fundamental.
-
-A chocolate is a product.
-
-A beautifully curated anniversary gift containing chocolate, fragrance, a handwritten message, and refined packaging is an **experience.**
-
-Therefore:
+## Architecture
 
 ```text
-PRODUCT
-   ↓
-CURATION
-   ↓
-PRESENTATION
-   ↓
-PERSONALIZATION
-   ↓
-EMOTION
-   ↓
-EXPERIENCE
+LAXEE
+  ↓
+Collection / Occasion
+  ↓
+Product Family
+  ↓
+Tier
+  ↓
+Product
+  ↓
+Variant / SKU
+```
+
+## Current Nikah Architecture
+
+```text
+Nikah
+├── Signature   ← current development priority
+├── Premium     ← after Signature validation
+└── Prestige    ← future / limited
+```
+
+The old `Elite` naming is retired and must not be used in new product work.
+
+## Tier Logic
+
+Tiers should increase genuine value through some combination of:
+
+1. Product quality
+2. Curation depth
+3. Personalization
+4. Packaging quality
+5. Unboxing design
+6. Service
+7. Exclusivity
+
+A higher tier should not simply contain more products.
+
+## Expansion Rule
+
+A new collection, family, or tier requires:
+
+- a clear customer need
+- strategic fit
+- supporting evidence
+- commercial logic
+- operational feasibility
+- a responsible owner
+
+Ideas alone do not justify expansion.
+
+## Authority
+
+Detailed product definition belongs in `03 Products`.
+
+Research evidence belongs in `02 Research`.
+
+Packaging definition belongs in `04 Packaging`.
+
+Supplier feasibility belongs in `05 Supply Chain`.
+
+This document defines the strategic architecture, not individual SKU specifications.
