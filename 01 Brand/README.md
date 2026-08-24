@@ -1,93 +1,52 @@
-# LAXEE — Brand
+# LAXEE — Brand System
 
-## Brand Overview
+**Status:** Active  
+**Owner:** LAXEE
 
-LAXEE is a premium gifting brand built around thoughtful curation,
-refined presentation, and meaningful experiences.
+## Purpose
 
-LAXEE does not simply sell gifts.
+This folder is the single source of truth for how LAXEE is positioned, expressed, recognized, and experienced as a brand.
 
-We create moments worth remembering.
+## Brand System
 
----
+```text
+Foundation
+   ↓
+Positioning
+   ↓
+Messaging
+   ↓
+Identity + Voice
+   ↓
+Guidelines
+   ↓
+Customer Experience
+```
 
-## Brand Name
+## Sections
 
-**L A X E É**
+- `Foundation/` — purpose, vision, mission, values, beliefs, promise
+- `Strategy/` — category, positioning, differentiation, audience and experience strategy
+- `Identity/` — logo, color, typography, photography, visual language
+- `Voice/` — verbal identity and communication principles
+- `Guidelines/` — practical rules for consistent application
 
----
+## Authority Rule
 
-## Motto
+Brand Foundation defines enduring principles. Strategy translates those principles into competitive choices. Guidelines explain how to apply the approved system.
 
-**Quiet Opulence**
+Do not duplicate the full brand foundation inside strategy or guidelines documents.
 
----
+## Current Core
 
-## Brand Philosophy
+**Motto:** Quiet Opulence
 
-Less, but better.
+**Brand idea:** LAXEE creates refined, thoughtful gifting experiences designed to make meaningful moments memorable.
 
-LAXEE believes that luxury does not need to be loud.
-
-True elegance can be found in restraint, intention, quality, and detail.
-
----
-
-## Brand Principles
-
-### 01 — Curation
-
-Every product should have a purpose.
-
-### 02 — Quality
-
-Every element should meet a defined standard.
-
-### 03 — Restraint
-
-Luxury should feel refined rather than excessive.
-
-### 04 — Personalization
-
-The gift should feel meaningful to the recipient.
-
-### 05 — Experience
-
-The value of a LAXEE gift extends beyond the products inside the box.
-
----
+**Core principles:** Curation, Quality, Restraint, Personalization, Experience.
 
 ## Brand Personality
 
-LAXEE is:
+Refined, quiet, elegant, intentional, modern, thoughtful, sophisticated.
 
-- Refined
-- Quiet
-- Elegant
-- Intentional
-- Modern
-- Thoughtful
-- Sophisticated
-
-LAXEE is not:
-
-- Loud
-- Cheap-looking
-- Overdecorated
-- Generic
-- Mass-market in appearance
-
----
-
-## Brand Structure
-
-```text
-Brand/
-├── README.md
-├── Brand-Guidelines.md
-├── Logo/
-│   └── README.md
-├── Colors.md
-├── Typography.md
-├── Brand-Voice.md
-└── Taglines.md
+LAXEE should avoid appearing loud, excessive, generic, careless, or mass-market.
