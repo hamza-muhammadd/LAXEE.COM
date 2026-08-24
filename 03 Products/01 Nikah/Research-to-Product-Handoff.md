@@ -1,22 +1,26 @@
 # NIKAH-001 — Research-to-Product Handoff
 
-**Status:** Active working handoff
+**Status:** ACTIVE WORKING HANDOFF
 
-This document captures what the research is allowed to influence in the actual product system. It is not a substitute for the final Product Specification.
+## Purpose
 
-## What Research Supports
+This document defines exactly what the consolidated research currently allows LAXEE to do in product development.
+
+It is a bridge between `02 Research` and `03 Products`. It is not the final Product Specification.
+
+## Research-Supported Direction
 
 ### Product Direction
 
-A purpose-built Nikah gifting experience is more strategically defensible than a generic premium hamper.
+A purpose-built Nikah gifting experience is a stronger strategic direction than an undifferentiated premium hamper.
 
 ### Curation
 
-The customer should not be forced to assemble the entire experience. Expert curation is a potential advantage.
+Expert curation is a potential advantage because the customer should not have to assemble the complete gifting experience themselves.
 
 ### Product Roles
 
-The original eight-role framework is useful as a design lens:
+The eight-role framework remains useful as a design lens:
 
 1. Hero
 2. Nikah / Islamic meaning
@@ -27,33 +31,54 @@ The original eight-role framework is useful as a design lens:
 7. Experience
 8. Presentation
 
-These are **roles, not a requirement to include eight products**.
+These are roles, not required quantities.
 
 ### Differentiation Hypothesis
 
-The product should be designed around:
+The working differentiation hypothesis is:
 
 **Nikah + Meaning + Curation + Personalization + Keepsake + Unboxing + Quiet Luxury**
 
+This remains a hypothesis until customer and commercial validation strengthen it.
+
 ## What Research Does NOT Prove
 
-- Final product contents.
-- Final price.
-- Final tier composition.
-- Customer willingness to pay.
-- Supplier feasibility.
-- Product-market fit.
-- Exact Islamic components.
-- Optimal number of components.
+The current research does not prove:
+
+- final product contents
+- final price
+- final tier composition
+- willingness to pay
+- supplier feasibility
+- product-market fit
+- exact Islamic components
+- optimal number of components
+- final packaging structure
 
 ## Product Development Gates
 
-Before a component becomes final:
+Every component must move through:
 
-`Candidate → Research → Supplier Check → Sample → Quality Check → Costing → Customer/Concept Validation → Approved`
+`Candidate → Evidence → Supplier Check → Sample → Quality Check → Costing → Customer / Concept Validation → Product Decision → Approved Specification`
 
 ## Current Product Decision
 
-**Status:** CONCEPT VALIDATED ENOUGH TO DEVELOP — NOT READY FOR FINAL LAUNCH DECISION.
+**Status: CONCEPT VALIDATED ENOUGH TO DEVELOP — NOT READY FOR FINAL LAUNCH APPROVAL.**
 
-The next authoritative document should be the Product Specification in `03 Products/01 Nikah/`.
+The current focus is the **Nikah Signature** tier.
+
+Premium and Prestige remain future stages and should not distract from validating the first proposition.
+
+## Required Next Evidence
+
+Before finalizing Signature:
+
+1. Candidate component validation
+2. Supplier and sample validation
+3. Unit costing
+4. Packaging feasibility
+5. Customer/concept feedback
+6. Final experience coherence
+7. Commercial viability
+
+Once these are sufficiently validated, create the authoritative Product Specification.
