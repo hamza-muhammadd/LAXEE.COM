@@ -1,244 +1,85 @@
 # LAXEE — Nikah Collection
 
-A curated gifting collection created for one of life's most meaningful
-milestones: Nikah.
+**Status:** Active working product family
 
-The Nikah Collection is built around thoughtful curation, refined
-presentation, and emotional significance.
+The Nikah Collection is a product family built around thoughtful curation, refined presentation, emotional significance, and meaningful gifting.
 
----
-
-# Collection Philosophy
+## Product Principle
 
 A Nikah gift should feel intentional.
 
-LAXEE focuses on creating a complete gifting experience rather than simply
-combining multiple products inside a box.
+LAXEE is not trying to maximize the number of products inside a box. The objective is to maximize **meaning, quality, coherence, and experience**.
 
-Every box should communicate:
+> **Quiet Opulence.**
 
-> Quiet Opulence.
+## Current Tier Architecture
 
-The goal is not to maximize quantity.
-
-The goal is to maximize meaning, quality, and experience.
-
----
-
-# Collection Tiers
-
-LAXEE Nikah products are organized into three levels:
-
-| Tier | Positioning | Experience |
+| Tier | Role | Position |
 |---|---|---|
-| Elite | Accessible premium | Elegant & meaningful |
-| Premium | Elevated gifting | Refined & curated |
-| Prestige | Highest-tier experience | Exclusive & bespoke |
+| Signature | Core curated experience | The foundational LAXEE Nikah product |
+| Premium | Elevated experience | Greater product quality, personalization and presentation |
+| Prestige | Highest experience | Bespoke, limited and highly personalized |
 
----
+**Important:** The old `Elite` tier naming is retired. Do not create new Elite documents.
 
-# 01 — Elite
+## Tier Differentiation
 
-## Positioning
+Tiers should not simply add more products.
 
-The Elite tier is the entry point into the LAXEE Nikah Collection.
+They should progressively increase:
 
-It should provide a premium gifting experience while remaining relatively
-accessible.
-
-## Core Characteristics
-
-- Carefully selected products
-- Elegant packaging
-- Strong visual presentation
-- Meaningful gifting elements
-- Limited personalization
-- Efficient product configuration
-
-## Experience
-
-**Elegant. Thoughtful. Accessible.**
-
-## Ideal Customer
-
-Customers looking for a sophisticated Nikah gift without entering the
-higher-priced tiers.
-
-## Personalization
-
-Basic personalization may include:
-
-- Gift card
-- Couple's names
-- Nikah date
-- Short message
-
-## Product Status
-
-Planned.
-
----
-
-# 02 — Premium
-
-## Positioning
-
-The Premium tier represents the core LAXEE gifting experience.
-
-It combines stronger curation, better materials, enhanced presentation,
-and greater personalization.
-
-## Core Characteristics
-
-- Higher-quality products
-- More intentional product curation
-- Premium packaging
-- Enhanced presentation
-- More personalization options
-- Stronger unboxing experience
-
-## Experience
-
-**Refined. Curated. Memorable.**
-
-## Ideal Customer
-
-Customers looking for a noticeably elevated Nikah gift with a strong
-balance between luxury and value.
-
-## Personalization
-
-Potential options:
-
-- Couple's names
-- Nikah date
-- Personalized message
-- Custom card
-- Monogram
-- Selected custom elements
-
-## Product
-
-`NIK-PRE-001`
-
-**Premium Box**
-
-See:
-
-`Premium-Box.md`
-
-## Product Status
-
-Concept.
-
----
-
-# 03 — Prestige
-
-## Positioning
-
-Prestige is the highest tier of the LAXEE Nikah Collection.
-
-It is designed for customers who want an exclusive, highly personalized,
-and exceptional gifting experience.
-
-## Core Characteristics
-
-- Exceptional product quality
-- Highly curated selection
-- Premium materials
-- Bespoke packaging
-- Extensive personalization
-- Designed unboxing experience
-- Premium customer service
-- Limited availability
-
-## Experience
-
-**Exclusive. Bespoke. Unforgettable.**
-
-## Ideal Customer
-
-Customers purchasing a significant gift for:
-
-- Bride
-- Groom
-- Couple
-- Close family
-- Special guests
-- High-value personal relationships
-
-## Personalization
-
-Potential options:
-
-- Couple's names
-- Nikah date
-- Bespoke message
-- Monogram
-- Custom engraving
-- Custom packaging
-- Bespoke product selection
-- Special inserts
-- Personalized keepsake elements
-
-## Product
-
-`NIK-PRS-001`
-
-**Prestige Box**
-
-See:
-
-`Prestige-Box.md`
-
-## Product Status
-
-Concept.
-
----
-
-# Tier Differentiation
-
-The tiers should NOT be differentiated simply by adding more products.
-
-The primary difference should be the level of:
-
-1. Curation
-2. Product quality
-3. Packaging
-4. Personalization
-5. Presentation
+1. Product quality
+2. Curation depth
+3. Personalization
+4. Packaging quality
+5. Unboxing design
 6. Service
 7. Exclusivity
 
----
+## Signature
 
-# Experience Ladder
+The Signature tier is the current primary product-development focus.
 
-```text
-ELITE
-│
-├── Elegant packaging
-├── Curated products
-├── Basic personalization
-└── Accessible premium experience
-        │
-        ↓
-PREMIUM
-│
-├── Better product selection
-├── Premium packaging
-├── Enhanced personalization
-├── Stronger curation
-└── Elevated unboxing experience
-        │
-        ↓
-PRESTIGE
-│
-├── Exceptional products
-├── Bespoke packaging
-├── Extensive personalization
-├── Highly curated experience
-├── Premium service
-└── Exclusive / limited availability
+It should establish the LAXEE Nikah proposition through:
+
+- Strong Nikah relevance
+- Intentional curation
+- Meaningful Islamic/emotional elements
+- Premium but disciplined product selection
+- Personalization
+- Keepsake value
+- Refined presentation
+- Designed unboxing
+
+### Research Handoff
+
+See:
+
+- `Product-Discovery-and-Selection.md`
+- `Research-to-Product-Handoff.md`
+
+### Product Status
+
+**Concept validated enough to develop; final composition not yet approved.**
+
+## Premium
+
+Premium will be developed after the Signature proposition and economics are sufficiently validated.
+
+It should represent a meaningful increase in quality, curation, personalization, presentation, and service rather than simply more items.
+
+**Status:** Concept — not yet in detailed development.
+
+## Prestige
+
+Prestige is the highest tier and should remain intentionally limited.
+
+Potential characteristics include bespoke curation, exceptional materials, extensive personalization, bespoke packaging, premium service, and limited availability.
+
+**Status:** Concept — future development.
+
+## Product Development Rule
+
+`Research → Candidate → Supplier Check → Sample → Quality → Costing → Validation → Approval → Production`
+
+No product component becomes final merely because it appears in an earlier research document.
